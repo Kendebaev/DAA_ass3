@@ -1,0 +1,197 @@
+
+{
+  "graphName": "Small Graph 4",
+  "number_OF_Edge_and_Vertices": "Number of Vertices: 20 Number of Edges: 38" ,
+"edges": [
+{
+"source": "A",
+"destination": "B",
+"weight": 8
+},
+{
+"source": "B",
+"destination": "C",
+"weight": 4
+},
+{
+"source": "A",
+"destination": "D",
+"weight": 7
+},
+{
+"source": "A",
+"destination": "E",
+"weight": 5
+},
+{
+"source": "E",
+"destination": "F",
+"weight": 5
+},
+{
+"source": "A",
+"destination": "G",
+"weight": 6
+},
+{
+"source": "E",
+"destination": "H",
+"weight": 9
+},
+{
+"source": "A",
+"destination": "I",
+"weight": 14
+},
+{
+"source": "H",
+"destination": "J",
+"weight": 6
+},
+{
+"source": "F",
+"destination": "K",
+"weight": 11
+},
+{
+"source": "A",
+"destination": "L",
+"weight": 10
+},
+{
+"source": "G",
+"destination": "M",
+"weight": 15
+},
+{
+"source": "E",
+"destination": "N",
+"weight": 15
+},
+{
+"source": "B",
+"destination": "O",
+"weight": 14
+},
+{
+"source": "L",
+"destination": "P",
+"weight": 15
+},
+{
+"source": "D",
+"destination": "Q",
+"weight": 1
+},
+{
+"source": "N",
+"destination": "R",
+"weight": 8
+},
+{
+"source": "R",
+"destination": "S",
+"weight": 10
+},
+{
+"source": "G",
+"destination": "T",
+"weight": 6
+},
+{
+"source": "A",
+"destination": "T",
+"weight": 11
+},
+{
+"source": "A",
+"destination": "F",
+"weight": 12
+},
+{
+"source": "B",
+"destination": "G",
+"weight": 5
+},
+{
+"source": "F",
+"destination": "S",
+"weight": 9
+},
+{
+"source": "F",
+"destination": "Q",
+"weight": 15
+},
+{
+"source": "H",
+"destination": "Q",
+"weight": 3
+},
+{
+"source": "J",
+"destination": "A",
+"weight": 11
+},
+{
+"source": "K",
+"destination": "M",
+"weight": 9
+},
+{
+"source": "L",
+"destination": "B",
+"weight": 5
+},
+{
+"source": "M",
+"destination": "J",
+"weight": 15
+},
+{
+"source": "M",
+"destination": "I",
+"weight": 11
+},
+{
+"source": "O",
+"destination": "J",
+"weight": 12
+},
+{
+"source": "O",
+"destination": "H",
+"weight": 12
+},
+{
+"source": "Q",
+"destination": "B",
+"weight": 10
+},
+{
+"source": "R",
+"destination": "H",
+"weight": 8
+},
+{
+"source": "R",
+"destination": "Q",
+"weight": 1
+},
+{
+"source": "S",
+"destination": "K",
+"weight": 1
+},
+{
+"source": "S",
+"destination": "D",
+"weight": 12
+},
+{
+"source": "T",
+"destination": "M",
+"weight": 3
+}
+]
+}

@@ -1,0 +1,132 @@
+{
+  "graphName": "Small Graph 5",
+  "number_OF_Edge_and_Vertices": "Number of Vertices: 17 Number of Edges: 25" ,
+
+  "edges": [
+    {
+      "source": "A",
+      "destination": "B",
+      "weight": 7
+    },
+    {
+      "source": "B",
+      "destination": "C",
+      "weight": 12
+    },
+    {
+      "source": "A",
+      "destination": "D",
+      "weight": 5
+    },
+    {
+      "source": "A",
+      "destination": "E",
+      "weight": 10
+    },
+    {
+      "source": "C",
+      "destination": "F",
+      "weight": 1
+    },
+    {
+      "source": "C",
+      "destination": "G",
+      "weight": 5
+    },
+    {
+      "source": "D",
+      "destination": "H",
+      "weight": 7
+    },
+    {
+      "source": "A",
+      "destination": "I",
+      "weight": 15
+    },
+    {
+      "source": "A",
+      "destination": "J",
+      "weight": 15
+    },
+    {
+      "source": "I",
+      "destination": "K",
+      "weight": 8
+    },
+    {
+      "source": "I",
+      "destination": "L",
+      "weight": 6
+    },
+    {
+      "source": "E",
+      "destination": "M",
+      "weight": 5
+    },
+    {
+      "source": "H",
+      "destination": "N",
+      "weight": 14
+    },
+    {
+      "source": "J",
+      "destination": "O",
+      "weight": 7
+    },
+    {
+      "source": "E",
+      "destination": "P",
+      "weight": 1
+    },
+    {
+      "source": "L",
+      "destination": "Q",
+      "weight": 6
+    },
+    {
+      "source": "B",
+      "destination": "H",
+      "weight": 9
+    },
+    {
+      "source": "B",
+      "destination": "M",
+      "weight": 15
+    },
+    {
+      "source": "F",
+      "destination": "H",
+      "weight": 11
+    },
+    {
+      "source": "I",
+      "destination": "O",
+      "weight": 13
+    },
+    {
+      "source": "L",
+      "destination": "H",
+      "weight": 10
+    },
+    {
+      "source": "L",
+      "destination": "E",
+      "weight": 7
+    },
+    {
+      "source": "M",
+      "destination": "Q",
+      "weight": 4
+    },
+    {
+      "source": "O",
+      "destination": "E",
+      "weight": 12
+    },
+    {
+      "source": "P",
+      "destination": "B",
+      "weight": 2
+    }
+  ]
+}

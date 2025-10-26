@@ -1,0 +1,76 @@
+{
+  "graphName": "Small Graph 2",
+  "number_OF_Edge_and_Vertices": "Number of Vertices: 9 Number of Edges: 14" ,
+  "edges": [
+    {
+      "source": "A",
+      "destination": "B",
+      "weight": 3
+    },
+    {
+      "source": "B",
+      "destination": "C",
+      "weight": 5
+    },
+    {
+      "source": "A",
+      "destination": "D",
+      "weight": 1
+    },
+    {
+      "source": "A",
+      "destination": "E",
+      "weight": 9
+    },
+    {
+      "source": "C",
+      "destination": "F",
+      "weight": 10
+    },
+    {
+      "source": "D",
+      "destination": "G",
+      "weight": 14
+    },
+    {
+      "source": "D",
+      "destination": "H",
+      "weight": 10
+    },
+    {
+      "source": "B",
+      "destination": "I",
+      "weight": 5
+    },
+    {
+      "source": "B",
+      "destination": "F",
+      "weight": 14
+    },
+    {
+      "source": "D",
+      "destination": "I",
+      "weight": 1
+    },
+    {
+      "source": "D",
+      "destination": "B",
+      "weight": 12
+    },
+    {
+      "source": "E",
+      "destination": "C",
+      "weight": 3
+    },
+    {
+      "source": "F",
+      "destination": "G",
+      "weight": 4
+    },
+    {
+      "source": "H",
+      "destination": "F",
+      "weight": 6
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+
+{
+  "graphName": "Small Graph 3",
+  "number_OF_Edge_and_Vertices": "Number of Vertices: 12 Number of Edges: 22" ,
+"edges": [
+{
+"source": "A",
+"destination": "B",
+"weight": 4
+},
+{
+"source": "B",
+"destination": "C",
+"weight": 7
+},
+{
+"source": "A",
+"destination": "D",
+"weight": 10
+},
+{
+"source": "C",
+"destination": "E",
+"weight": 8
+},
+{
+"source": "B",
+"destination": "F",
+"weight": 8
+},
+{
+"source": "B",
+"destination": "G",
+"weight": 11
+},
+{
+"source": "D",
+"destination": "H",
+"weight": 4
+},
+{
+"source": "A",
+"destination": "I",
+"weight": 2
+},
+{
+"source": "F",
+"destination": "J",
+"weight": 5
+},
+{
+"source": "B",
+"destination": "K",
+"weight": 9
+},
+{
+"source": "E",
+"destination": "L",
+"weight": 9
+},
+{
+"source": "B",
+"destination": "L",
+"weight": 7
+},
+{
+"source": "C",
+"destination": "G",
+"weight": 10
+},
+{
+"source": "C",
+"destination": "D",
+"weight": 2
+},
+{
+"source": "D",
+"destination": "E",
+"weight": 7
+},
+{
+"source": "E",
+"destination": "I",
+"weight": 5
+},
+{
+"source": "H",
+"destination": "B",
+"weight": 13
+},
+{
+"source": "H",
+"destination": "E",
+"weight": 13
+},
+{
+"source": "I",
+"destination": "G",
+"weight": 6
+},
+{
+"source": "J",
+"destination": "B",
+"weight": 6
+},
+{
+"source": "J",
+"destination": "A",
+"weight": 15
+},
+{
+"source": "K",
+"destination": "G",
+"weight": 13
+}
+]
+}

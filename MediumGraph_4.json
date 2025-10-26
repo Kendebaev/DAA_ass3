@@ -1,0 +1,6531 @@
+{
+  "graphName": "Graph with 85 vertices",
+  "number_OF_Edge_and_Vertices": "Number of Vertices: 85 Number of Edges: 1305",
+  "edges": [
+    {
+      "source": "№2",
+      "destination": "№1",
+      "weight": 7
+    },
+    {
+      "source": "№3",
+      "destination": "№2",
+      "weight": 1
+    },
+    {
+      "source": "№4",
+      "destination": "№2",
+      "weight": 14
+    },
+    {
+      "source": "№5",
+      "destination": "№3",
+      "weight": 6
+    },
+    {
+      "source": "№6",
+      "destination": "№3",
+      "weight": 9
+    },
+    {
+      "source": "№7",
+      "destination": "№6",
+      "weight": 12
+    },
+    {
+      "source": "№8",
+      "destination": "№4",
+      "weight": 15
+    },
+    {
+      "source": "№9",
+      "destination": "№6",
+      "weight": 3
+    },
+    {
+      "source": "№10",
+      "destination": "№1",
+      "weight": 3
+    },
+    {
+      "source": "№11",
+      "destination": "№3",
+      "weight": 10
+    },
+    {
+      "source": "№12",
+      "destination": "№2",
+      "weight": 12
+    },
+    {
+      "source": "№13",
+      "destination": "№1",
+      "weight": 3
+    },
+    {
+      "source": "№14",
+      "destination": "№7",
+      "weight": 4
+    },
+    {
+      "source": "№15",
+      "destination": "№7",
+      "weight": 3
+    },
+    {
+      "source": "№16",
+      "destination": "№1",
+      "weight": 1
+    },
+    {
+      "source": "№17",
+      "destination": "№7",
+      "weight": 3
+    },
+    {
+      "source": "№18",
+      "destination": "№4",
+      "weight": 7
+    },
+    {
+      "source": "№19",
+      "destination": "№9",
+      "weight": 2
+    },
+    {
+      "source": "№20",
+      "destination": "№16",
+      "weight": 5
+    },
+    {
+      "source": "№21",
+      "destination": "№13",
+      "weight": 7
+    },
+    {
+      "source": "№22",
+      "destination": "№5",
+      "weight": 14
+    },
+    {
+      "source": "№23",
+      "destination": "№11",
+      "weight": 3
+    },
+    {
+      "source": "№24",
+      "destination": "№21",
+      "weight": 15
+    },
+    {
+      "source": "№25",
+      "destination": "№16",
+      "weight": 14
+    },
+    {
+      "source": "№26",
+      "destination": "№23",
+      "weight": 1
+    },
+    {
+      "source": "№27",
+      "destination": "№23",
+      "weight": 4
+    },
+    {
+      "source": "№28",
+      "destination": "№26",
+      "weight": 8
+    },
+    {
+      "source": "№29",
+      "destination": "№24",
+      "weight": 14
+    },
+    {
+      "source": "№30",
+      "destination": "№26",
+      "weight": 11
+    },
+    {
+      "source": "№31",
+      "destination": "№11",
+      "weight": 8
+    },
+    {
+      "source": "№32",
+      "destination": "№31",
+      "weight": 12
+    },
+    {
+      "source": "№33",
+      "destination": "№4",
+      "weight": 2
+    },
+    {
+      "source": "№34",
+      "destination": "№20",
+      "weight": 1
+    },
+    {
+      "source": "№35",
+      "destination": "№27",
+      "weight": 12
+    },
+    {
+      "source": "№36",
+      "destination": "№1",
+      "weight": 2
+    },
+    {
+      "source": "№37",
+      "destination": "№17",
+      "weight": 6
+    },
+    {
+      "source": "№38",
+      "destination": "№20",
+      "weight": 12
+    },
+    {
+      "source": "№39",
+      "destination": "№35",
+      "weight": 10
+    },
+    {
+      "source": "№40",
+      "destination": "№11",
+      "weight": 5
+    },
+    {
+      "source": "№41",
+      "destination": "№31",
+      "weight": 9
+    },
+    {
+      "source": "№42",
+      "destination": "№41",
+      "weight": 4
+    },
+    {
+      "source": "№43",
+      "destination": "№18",
+      "weight": 6
+    },
+    {
+      "source": "№44",
+      "destination": "№8",
+      "weight": 11
+    },
+    {
+      "source": "№45",
+      "destination": "№43",
+      "weight": 15
+    },
+    {
+      "source": "№46",
+      "destination": "№5",
+      "weight": 8
+    },
+    {
+      "source": "№47",
+      "destination": "№36",
+      "weight": 9
+    },
+    {
+      "source": "№48",
+      "destination": "№5",
+      "weight": 1
+    },
+    {
+      "source": "№49",
+      "destination": "№48",
+      "weight": 9
+    },
+    {
+      "source": "№50",
+      "destination": "№27",
+      "weight": 3
+    },
+    {
+      "source": "№51",
+      "destination": "№3",
+      "weight": 9
+    },
+    {
+      "source": "№52",
+      "destination": "№42",
+      "weight": 1
+    },
+    {
+      "source": "№53",
+      "destination": "№46",
+      "weight": 8
+    },
+    {
+      "source": "№54",
+      "destination": "№16",
+      "weight": 9
+    },
+    {
+      "source": "№55",
+      "destination": "№43",
+      "weight": 13
+    },
+    {
+      "source": "№56",
+      "destination": "№44",
+      "weight": 2
+    },
+    {
+      "source": "№57",
+      "destination": "№37",
+      "weight": 14
+    },
+    {
+      "source": "№58",
+      "destination": "№41",
+      "weight": 4
+    },
+    {
+      "source": "№59",
+      "destination": "№49",
+      "weight": 4
+    },
+    {
+      "source": "№60",
+      "destination": "№3",
+      "weight": 6
+    },
+    {
+      "source": "№61",
+      "destination": "№42",
+      "weight": 8
+    },
+    {
+      "source": "№62",
+      "destination": "№32",
+      "weight": 1
+    },
+    {
+      "source": "№63",
+      "destination": "№23",
+      "weight": 11
+    },
+    {
+      "source": "№64",
+      "destination": "№57",
+      "weight": 13
+    },
+    {
+      "source": "№65",
+      "destination": "№6",
+      "weight": 3
+    },
+    {
+      "source": "№66",
+      "destination": "№7",
+      "weight": 1
+    },
+    {
+      "source": "№67",
+      "destination": "№63",
+      "weight": 14
+    },
+    {
+      "source": "№68",
+      "destination": "№19",
+      "weight": 5
+    },
+    {
+      "source": "№69",
+      "destination": "№6",
+      "weight": 6
+    },
+    {
+      "source": "№70",
+      "destination": "№13",
+      "weight": 2
+    },
+    {
+      "source": "№71",
+      "destination": "№34",
+      "weight": 1
+    },
+    {
+      "source": "№72",
+      "destination": "№36",
+      "weight": 12
+    },
+    {
+      "source": "№73",
+      "destination": "№5",
+      "weight": 7
+    },
+    {
+      "source": "№74",
+      "destination": "№60",
+      "weight": 4
+    },
+    {
+      "source": "№75",
+      "destination": "№53",
+      "weight": 10
+    },
+    {
+      "source": "№76",
+      "destination": "№34",
+      "weight": 11
+    },
+    {
+      "source": "№77",
+      "destination": "№8",
+      "weight": 14
+    },
+    {
+      "source": "№78",
+      "destination": "№12",
+      "weight": 14
+    },
+    {
+      "source": "№79",
+      "destination": "№24",
+      "weight": 14
+    },
+    {
+      "source": "№80",
+      "destination": "№6",
+      "weight": 13
+    },
+    {
+      "source": "№81",
+      "destination": "№79",
+      "weight": 3
+    },
+    {
+      "source": "№82",
+      "destination": "№4",
+      "weight": 13
+    },
+    {
+      "source": "№83",
+      "destination": "№23",
+      "weight": 2
+    },
+    {
+      "source": "№84",
+      "destination": "№15",
+      "weight": 12
+    },
+    {
+      "source": "№85",
+      "destination": "№47",
+      "weight": 7
+    },
+    {
+      "source": "№1",
+      "destination": "№5",
+      "weight": 12
+    },
+    {
+      "source": "№1",
+      "destination": "№6",
+      "weight": 7
+    },
+    {
+      "source": "№1",
+      "destination": "№14",
+      "weight": 3
+    },
+    {
+      "source": "№1",
+      "destination": "№20",
+      "weight": 10
+    },
+    {
+      "source": "№1",
+      "destination": "№21",
+      "weight": 14
+    },
+    {
+      "source": "№1",
+      "destination": "№23",
+      "weight": 10
+    },
+    {
+      "source": "№1",
+      "destination": "№27",
+      "weight": 3
+    },
+    {
+      "source": "№1",
+      "destination": "№28",
+      "weight": 1
+    },
+    {
+      "source": "№1",
+      "destination": "№30",
+      "weight": 9
+    },
+    {
+      "source": "№1",
+      "destination": "№31",
+      "weight": 9
+    },
+    {
+      "source": "№1",
+      "destination": "№37",
+      "weight": 2
+    },
+    {
+      "source": "№1",
+      "destination": "№38",
+      "weight": 5
+    },
+    {
+      "source": "№1",
+      "destination": "№39",
+      "weight": 6
+    },
+    {
+      "source": "№1",
+      "destination": "№41",
+      "weight": 6
+    },
+    {
+      "source": "№1",
+      "destination": "№48",
+      "weight": 11
+    },
+    {
+      "source": "№1",
+      "destination": "№50",
+      "weight": 14
+    },
+    {
+      "source": "№1",
+      "destination": "№51",
+      "weight": 12
+    },
+    {
+      "source": "№1",
+      "destination": "№52",
+      "weight": 1
+    },
+    {
+      "source": "№1",
+      "destination": "№53",
+      "weight": 8
+    },
+    {
+      "source": "№1",
+      "destination": "№54",
+      "weight": 7
+    },
+    {
+      "source": "№1",
+      "destination": "№57",
+      "weight": 5
+    },
+    {
+      "source": "№1",
+      "destination": "№58",
+      "weight": 5
+    },
+    {
+      "source": "№1",
+      "destination": "№63",
+      "weight": 3
+    },
+    {
+      "source": "№1",
+      "destination": "№64",
+      "weight": 1
+    },
+    {
+      "source": "№1",
+      "destination": "№67",
+      "weight": 12
+    },
+    {
+      "source": "№1",
+      "destination": "№71",
+      "weight": 2
+    },
+    {
+      "source": "№1",
+      "destination": "№72",
+      "weight": 2
+    },
+    {
+      "source": "№1",
+      "destination": "№75",
+      "weight": 2
+    },
+    {
+      "source": "№1",
+      "destination": "№76",
+      "weight": 15
+    },
+    {
+      "source": "№1",
+      "destination": "№80",
+      "weight": 1
+    },
+    {
+      "source": "№1",
+      "destination": "№81",
+      "weight": 4
+    },
+    {
+      "source": "№1",
+      "destination": "№83",
+      "weight": 9
+    },
+    {
+      "source": "№2",
+      "destination": "№5",
+      "weight": 15
+    },
+    {
+      "source": "№2",
+      "destination": "№6",
+      "weight": 9
+    },
+    {
+      "source": "№2",
+      "destination": "№8",
+      "weight": 2
+    },
+    {
+      "source": "№2",
+      "destination": "№11",
+      "weight": 14
+    },
+    {
+      "source": "№2",
+      "destination": "№14",
+      "weight": 10
+    },
+    {
+      "source": "№2",
+      "destination": "№16",
+      "weight": 2
+    },
+    {
+      "source": "№2",
+      "destination": "№23",
+      "weight": 2
+    },
+    {
+      "source": "№2",
+      "destination": "№24",
+      "weight": 8
+    },
+    {
+      "source": "№2",
+      "destination": "№27",
+      "weight": 12
+    },
+    {
+      "source": "№2",
+      "destination": "№28",
+      "weight": 5
+    },
+    {
+      "source": "№2",
+      "destination": "№30",
+      "weight": 3
+    },
+    {
+      "source": "№2",
+      "destination": "№34",
+      "weight": 8
+    },
+    {
+      "source": "№2",
+      "destination": "№35",
+      "weight": 1
+    },
+    {
+      "source": "№2",
+      "destination": "№36",
+      "weight": 5
+    },
+    {
+      "source": "№2",
+      "destination": "№42",
+      "weight": 9
+    },
+    {
+      "source": "№2",
+      "destination": "№43",
+      "weight": 4
+    },
+    {
+      "source": "№2",
+      "destination": "№46",
+      "weight": 1
+    },
+    {
+      "source": "№2",
+      "destination": "№51",
+      "weight": 5
+    },
+    {
+      "source": "№2",
+      "destination": "№53",
+      "weight": 1
+    },
+    {
+      "source": "№2",
+      "destination": "№54",
+      "weight": 11
+    },
+    {
+      "source": "№2",
+      "destination": "№55",
+      "weight": 11
+    },
+    {
+      "source": "№2",
+      "destination": "№58",
+      "weight": 12
+    },
+    {
+      "source": "№2",
+      "destination": "№61",
+      "weight": 12
+    },
+    {
+      "source": "№2",
+      "destination": "№65",
+      "weight": 2
+    },
+    {
+      "source": "№2",
+      "destination": "№68",
+      "weight": 13
+    },
+    {
+      "source": "№2",
+      "destination": "№73",
+      "weight": 9
+    },
+    {
+      "source": "№2",
+      "destination": "№76",
+      "weight": 12
+    },
+    {
+      "source": "№2",
+      "destination": "№78",
+      "weight": 9
+    },
+    {
+      "source": "№2",
+      "destination": "№79",
+      "weight": 15
+    },
+    {
+      "source": "№2",
+      "destination": "№81",
+      "weight": 2
+    },
+    {
+      "source": "№2",
+      "destination": "№82",
+      "weight": 11
+    },
+    {
+      "source": "№2",
+      "destination": "№83",
+      "weight": 7
+    },
+    {
+      "source": "№3",
+      "destination": "№10",
+      "weight": 15
+    },
+    {
+      "source": "№3",
+      "destination": "№12",
+      "weight": 15
+    },
+    {
+      "source": "№3",
+      "destination": "№15",
+      "weight": 8
+    },
+    {
+      "source": "№3",
+      "destination": "№17",
+      "weight": 2
+    },
+    {
+      "source": "№3",
+      "destination": "№30",
+      "weight": 1
+    },
+    {
+      "source": "№3",
+      "destination": "№42",
+      "weight": 7
+    },
+    {
+      "source": "№3",
+      "destination": "№45",
+      "weight": 5
+    },
+    {
+      "source": "№3",
+      "destination": "№46",
+      "weight": 1
+    },
+    {
+      "source": "№3",
+      "destination": "№48",
+      "weight": 6
+    },
+    {
+      "source": "№3",
+      "destination": "№50",
+      "weight": 8
+    },
+    {
+      "source": "№3",
+      "destination": "№56",
+      "weight": 1
+    },
+    {
+      "source": "№3",
+      "destination": "№61",
+      "weight": 13
+    },
+    {
+      "source": "№3",
+      "destination": "№63",
+      "weight": 2
+    },
+    {
+      "source": "№3",
+      "destination": "№68",
+      "weight": 7
+    },
+    {
+      "source": "№3",
+      "destination": "№69",
+      "weight": 12
+    },
+    {
+      "source": "№3",
+      "destination": "№70",
+      "weight": 2
+    },
+    {
+      "source": "№3",
+      "destination": "№74",
+      "weight": 4
+    },
+    {
+      "source": "№3",
+      "destination": "№75",
+      "weight": 2
+    },
+    {
+      "source": "№3",
+      "destination": "№79",
+      "weight": 13
+    },
+    {
+      "source": "№3",
+      "destination": "№83",
+      "weight": 10
+    },
+    {
+      "source": "№3",
+      "destination": "№84",
+      "weight": 13
+    },
+    {
+      "source": "№4",
+      "destination": "№9",
+      "weight": 7
+    },
+    {
+      "source": "№4",
+      "destination": "№11",
+      "weight": 11
+    },
+    {
+      "source": "№4",
+      "destination": "№13",
+      "weight": 3
+    },
+    {
+      "source": "№4",
+      "destination": "№14",
+      "weight": 9
+    },
+    {
+      "source": "№4",
+      "destination": "№15",
+      "weight": 13
+    },
+    {
+      "source": "№4",
+      "destination": "№16",
+      "weight": 5
+    },
+    {
+      "source": "№4",
+      "destination": "№17",
+      "weight": 15
+    },
+    {
+      "source": "№4",
+      "destination": "№21",
+      "weight": 8
+    },
+    {
+      "source": "№4",
+      "destination": "№23",
+      "weight": 11
+    },
+    {
+      "source": "№4",
+      "destination": "№24",
+      "weight": 3
+    },
+    {
+      "source": "№4",
+      "destination": "№27",
+      "weight": 8
+    },
+    {
+      "source": "№4",
+      "destination": "№39",
+      "weight": 9
+    },
+    {
+      "source": "№4",
+      "destination": "№40",
+      "weight": 14
+    },
+    {
+      "source": "№4",
+      "destination": "№41",
+      "weight": 12
+    },
+    {
+      "source": "№4",
+      "destination": "№43",
+      "weight": 12
+    },
+    {
+      "source": "№4",
+      "destination": "№45",
+      "weight": 7
+    },
+    {
+      "source": "№4",
+      "destination": "№46",
+      "weight": 14
+    },
+    {
+      "source": "№4",
+      "destination": "№51",
+      "weight": 9
+    },
+    {
+      "source": "№4",
+      "destination": "№58",
+      "weight": 14
+    },
+    {
+      "source": "№4",
+      "destination": "№61",
+      "weight": 4
+    },
+    {
+      "source": "№4",
+      "destination": "№68",
+      "weight": 8
+    },
+    {
+      "source": "№4",
+      "destination": "№74",
+      "weight": 10
+    },
+    {
+      "source": "№4",
+      "destination": "№75",
+      "weight": 15
+    },
+    {
+      "source": "№4",
+      "destination": "№77",
+      "weight": 8
+    },
+    {
+      "source": "№4",
+      "destination": "№84",
+      "weight": 13
+    },
+    {
+      "source": "№4",
+      "destination": "№85",
+      "weight": 6
+    },
+    {
+      "source": "№5",
+      "destination": "№6",
+      "weight": 7
+    },
+    {
+      "source": "№5",
+      "destination": "№7",
+      "weight": 15
+    },
+    {
+      "source": "№5",
+      "destination": "№9",
+      "weight": 7
+    },
+    {
+      "source": "№5",
+      "destination": "№14",
+      "weight": 5
+    },
+    {
+      "source": "№5",
+      "destination": "№16",
+      "weight": 12
+    },
+    {
+      "source": "№5",
+      "destination": "№17",
+      "weight": 11
+    },
+    {
+      "source": "№5",
+      "destination": "№18",
+      "weight": 5
+    },
+    {
+      "source": "№5",
+      "destination": "№19",
+      "weight": 6
+    },
+    {
+      "source": "№5",
+      "destination": "№20",
+      "weight": 13
+    },
+    {
+      "source": "№5",
+      "destination": "№24",
+      "weight": 14
+    },
+    {
+      "source": "№5",
+      "destination": "№28",
+      "weight": 13
+    },
+    {
+      "source": "№5",
+      "destination": "№37",
+      "weight": 9
+    },
+    {
+      "source": "№5",
+      "destination": "№41",
+      "weight": 12
+    },
+    {
+      "source": "№5",
+      "destination": "№42",
+      "weight": 6
+    },
+    {
+      "source": "№5",
+      "destination": "№43",
+      "weight": 2
+    },
+    {
+      "source": "№5",
+      "destination": "№45",
+      "weight": 1
+    },
+    {
+      "source": "№5",
+      "destination": "№49",
+      "weight": 12
+    },
+    {
+      "source": "№5",
+      "destination": "№50",
+      "weight": 4
+    },
+    {
+      "source": "№5",
+      "destination": "№54",
+      "weight": 8
+    },
+    {
+      "source": "№5",
+      "destination": "№56",
+      "weight": 4
+    },
+    {
+      "source": "№5",
+      "destination": "№57",
+      "weight": 4
+    },
+    {
+      "source": "№5",
+      "destination": "№59",
+      "weight": 15
+    },
+    {
+      "source": "№5",
+      "destination": "№62",
+      "weight": 7
+    },
+    {
+      "source": "№5",
+      "destination": "№65",
+      "weight": 9
+    },
+    {
+      "source": "№5",
+      "destination": "№66",
+      "weight": 4
+    },
+    {
+      "source": "№5",
+      "destination": "№69",
+      "weight": 6
+    },
+    {
+      "source": "№5",
+      "destination": "№72",
+      "weight": 9
+    },
+    {
+      "source": "№5",
+      "destination": "№75",
+      "weight": 7
+    },
+    {
+      "source": "№5",
+      "destination": "№80",
+      "weight": 8
+    },
+    {
+      "source": "№6",
+      "destination": "№10",
+      "weight": 5
+    },
+    {
+      "source": "№6",
+      "destination": "№11",
+      "weight": 3
+    },
+    {
+      "source": "№6",
+      "destination": "№13",
+      "weight": 13
+    },
+    {
+      "source": "№6",
+      "destination": "№16",
+      "weight": 14
+    },
+    {
+      "source": "№6",
+      "destination": "№23",
+      "weight": 3
+    },
+    {
+      "source": "№6",
+      "destination": "№25",
+      "weight": 3
+    },
+    {
+      "source": "№6",
+      "destination": "№27",
+      "weight": 12
+    },
+    {
+      "source": "№6",
+      "destination": "№30",
+      "weight": 6
+    },
+    {
+      "source": "№6",
+      "destination": "№43",
+      "weight": 4
+    },
+    {
+      "source": "№6",
+      "destination": "№55",
+      "weight": 11
+    },
+    {
+      "source": "№6",
+      "destination": "№57",
+      "weight": 10
+    },
+    {
+      "source": "№6",
+      "destination": "№59",
+      "weight": 2
+    },
+    {
+      "source": "№6",
+      "destination": "№61",
+      "weight": 5
+    },
+    {
+      "source": "№6",
+      "destination": "№64",
+      "weight": 1
+    },
+    {
+      "source": "№6",
+      "destination": "№66",
+      "weight": 13
+    },
+    {
+      "source": "№6",
+      "destination": "№67",
+      "weight": 15
+    },
+    {
+      "source": "№6",
+      "destination": "№72",
+      "weight": 3
+    },
+    {
+      "source": "№6",
+      "destination": "№73",
+      "weight": 6
+    },
+    {
+      "source": "№6",
+      "destination": "№75",
+      "weight": 15
+    },
+    {
+      "source": "№6",
+      "destination": "№77",
+      "weight": 14
+    },
+    {
+      "source": "№6",
+      "destination": "№85",
+      "weight": 14
+    },
+    {
+      "source": "№7",
+      "destination": "№9",
+      "weight": 4
+    },
+    {
+      "source": "№7",
+      "destination": "№10",
+      "weight": 13
+    },
+    {
+      "source": "№7",
+      "destination": "№19",
+      "weight": 2
+    },
+    {
+      "source": "№7",
+      "destination": "№20",
+      "weight": 12
+    },
+    {
+      "source": "№7",
+      "destination": "№24",
+      "weight": 10
+    },
+    {
+      "source": "№7",
+      "destination": "№28",
+      "weight": 11
+    },
+    {
+      "source": "№7",
+      "destination": "№30",
+      "weight": 10
+    },
+    {
+      "source": "№7",
+      "destination": "№31",
+      "weight": 6
+    },
+    {
+      "source": "№7",
+      "destination": "№32",
+      "weight": 5
+    },
+    {
+      "source": "№7",
+      "destination": "№40",
+      "weight": 2
+    },
+    {
+      "source": "№7",
+      "destination": "№41",
+      "weight": 1
+    },
+    {
+      "source": "№7",
+      "destination": "№42",
+      "weight": 13
+    },
+    {
+      "source": "№7",
+      "destination": "№51",
+      "weight": 4
+    },
+    {
+      "source": "№7",
+      "destination": "№56",
+      "weight": 8
+    },
+    {
+      "source": "№7",
+      "destination": "№57",
+      "weight": 12
+    },
+    {
+      "source": "№7",
+      "destination": "№62",
+      "weight": 14
+    },
+    {
+      "source": "№7",
+      "destination": "№65",
+      "weight": 1
+    },
+    {
+      "source": "№7",
+      "destination": "№67",
+      "weight": 13
+    },
+    {
+      "source": "№7",
+      "destination": "№70",
+      "weight": 4
+    },
+    {
+      "source": "№7",
+      "destination": "№75",
+      "weight": 8
+    },
+    {
+      "source": "№7",
+      "destination": "№84",
+      "weight": 3
+    },
+    {
+      "source": "№8",
+      "destination": "№19",
+      "weight": 3
+    },
+    {
+      "source": "№8",
+      "destination": "№23",
+      "weight": 8
+    },
+    {
+      "source": "№8",
+      "destination": "№24",
+      "weight": 1
+    },
+    {
+      "source": "№8",
+      "destination": "№27",
+      "weight": 5
+    },
+    {
+      "source": "№8",
+      "destination": "№28",
+      "weight": 10
+    },
+    {
+      "source": "№8",
+      "destination": "№33",
+      "weight": 10
+    },
+    {
+      "source": "№8",
+      "destination": "№34",
+      "weight": 14
+    },
+    {
+      "source": "№8",
+      "destination": "№37",
+      "weight": 6
+    },
+    {
+      "source": "№8",
+      "destination": "№45",
+      "weight": 11
+    },
+    {
+      "source": "№8",
+      "destination": "№46",
+      "weight": 14
+    },
+    {
+      "source": "№8",
+      "destination": "№47",
+      "weight": 15
+    },
+    {
+      "source": "№8",
+      "destination": "№50",
+      "weight": 2
+    },
+    {
+      "source": "№8",
+      "destination": "№52",
+      "weight": 1
+    },
+    {
+      "source": "№8",
+      "destination": "№61",
+      "weight": 15
+    },
+    {
+      "source": "№8",
+      "destination": "№65",
+      "weight": 14
+    },
+    {
+      "source": "№8",
+      "destination": "№66",
+      "weight": 3
+    },
+    {
+      "source": "№8",
+      "destination": "№69",
+      "weight": 10
+    },
+    {
+      "source": "№8",
+      "destination": "№76",
+      "weight": 3
+    },
+    {
+      "source": "№8",
+      "destination": "№80",
+      "weight": 10
+    },
+    {
+      "source": "№8",
+      "destination": "№81",
+      "weight": 7
+    },
+    {
+      "source": "№8",
+      "destination": "№84",
+      "weight": 1
+    },
+    {
+      "source": "№9",
+      "destination": "№11",
+      "weight": 7
+    },
+    {
+      "source": "№9",
+      "destination": "№13",
+      "weight": 1
+    },
+    {
+      "source": "№9",
+      "destination": "№16",
+      "weight": 6
+    },
+    {
+      "source": "№9",
+      "destination": "№22",
+      "weight": 13
+    },
+    {
+      "source": "№9",
+      "destination": "№24",
+      "weight": 12
+    },
+    {
+      "source": "№9",
+      "destination": "№30",
+      "weight": 13
+    },
+    {
+      "source": "№9",
+      "destination": "№31",
+      "weight": 1
+    },
+    {
+      "source": "№9",
+      "destination": "№33",
+      "weight": 10
+    },
+    {
+      "source": "№9",
+      "destination": "№37",
+      "weight": 14
+    },
+    {
+      "source": "№9",
+      "destination": "№38",
+      "weight": 2
+    },
+    {
+      "source": "№9",
+      "destination": "№39",
+      "weight": 6
+    },
+    {
+      "source": "№9",
+      "destination": "№44",
+      "weight": 11
+    },
+    {
+      "source": "№9",
+      "destination": "№45",
+      "weight": 11
+    },
+    {
+      "source": "№9",
+      "destination": "№46",
+      "weight": 6
+    },
+    {
+      "source": "№9",
+      "destination": "№48",
+      "weight": 4
+    },
+    {
+      "source": "№9",
+      "destination": "№50",
+      "weight": 12
+    },
+    {
+      "source": "№9",
+      "destination": "№51",
+      "weight": 10
+    },
+    {
+      "source": "№9",
+      "destination": "№53",
+      "weight": 9
+    },
+    {
+      "source": "№9",
+      "destination": "№56",
+      "weight": 10
+    },
+    {
+      "source": "№9",
+      "destination": "№58",
+      "weight": 10
+    },
+    {
+      "source": "№9",
+      "destination": "№62",
+      "weight": 8
+    },
+    {
+      "source": "№9",
+      "destination": "№63",
+      "weight": 1
+    },
+    {
+      "source": "№9",
+      "destination": "№66",
+      "weight": 6
+    },
+    {
+      "source": "№9",
+      "destination": "№69",
+      "weight": 14
+    },
+    {
+      "source": "№9",
+      "destination": "№74",
+      "weight": 13
+    },
+    {
+      "source": "№9",
+      "destination": "№77",
+      "weight": 15
+    },
+    {
+      "source": "№9",
+      "destination": "№80",
+      "weight": 14
+    },
+    {
+      "source": "№9",
+      "destination": "№81",
+      "weight": 15
+    },
+    {
+      "source": "№10",
+      "destination": "№11",
+      "weight": 1
+    },
+    {
+      "source": "№10",
+      "destination": "№13",
+      "weight": 2
+    },
+    {
+      "source": "№10",
+      "destination": "№15",
+      "weight": 8
+    },
+    {
+      "source": "№10",
+      "destination": "№16",
+      "weight": 8
+    },
+    {
+      "source": "№10",
+      "destination": "№20",
+      "weight": 15
+    },
+    {
+      "source": "№10",
+      "destination": "№23",
+      "weight": 3
+    },
+    {
+      "source": "№10",
+      "destination": "№26",
+      "weight": 1
+    },
+    {
+      "source": "№10",
+      "destination": "№32",
+      "weight": 9
+    },
+    {
+      "source": "№10",
+      "destination": "№35",
+      "weight": 1
+    },
+    {
+      "source": "№10",
+      "destination": "№38",
+      "weight": 8
+    },
+    {
+      "source": "№10",
+      "destination": "№40",
+      "weight": 2
+    },
+    {
+      "source": "№10",
+      "destination": "№42",
+      "weight": 3
+    },
+    {
+      "source": "№10",
+      "destination": "№44",
+      "weight": 8
+    },
+    {
+      "source": "№10",
+      "destination": "№46",
+      "weight": 14
+    },
+    {
+      "source": "№10",
+      "destination": "№49",
+      "weight": 7
+    },
+    {
+      "source": "№10",
+      "destination": "№57",
+      "weight": 12
+    },
+    {
+      "source": "№10",
+      "destination": "№63",
+      "weight": 8
+    },
+    {
+      "source": "№10",
+      "destination": "№66",
+      "weight": 9
+    },
+    {
+      "source": "№10",
+      "destination": "№68",
+      "weight": 12
+    },
+    {
+      "source": "№10",
+      "destination": "№70",
+      "weight": 6
+    },
+    {
+      "source": "№10",
+      "destination": "№77",
+      "weight": 10
+    },
+    {
+      "source": "№10",
+      "destination": "№78",
+      "weight": 4
+    },
+    {
+      "source": "№10",
+      "destination": "№79",
+      "weight": 3
+    },
+    {
+      "source": "№10",
+      "destination": "№80",
+      "weight": 3
+    },
+    {
+      "source": "№10",
+      "destination": "№81",
+      "weight": 11
+    },
+    {
+      "source": "№10",
+      "destination": "№83",
+      "weight": 4
+    },
+    {
+      "source": "№11",
+      "destination": "№12",
+      "weight": 15
+    },
+    {
+      "source": "№11",
+      "destination": "№14",
+      "weight": 1
+    },
+    {
+      "source": "№11",
+      "destination": "№15",
+      "weight": 6
+    },
+    {
+      "source": "№11",
+      "destination": "№18",
+      "weight": 8
+    },
+    {
+      "source": "№11",
+      "destination": "№19",
+      "weight": 8
+    },
+    {
+      "source": "№11",
+      "destination": "№20",
+      "weight": 6
+    },
+    {
+      "source": "№11",
+      "destination": "№21",
+      "weight": 11
+    },
+    {
+      "source": "№11",
+      "destination": "№22",
+      "weight": 15
+    },
+    {
+      "source": "№11",
+      "destination": "№26",
+      "weight": 10
+    },
+    {
+      "source": "№11",
+      "destination": "№30",
+      "weight": 1
+    },
+    {
+      "source": "№11",
+      "destination": "№32",
+      "weight": 12
+    },
+    {
+      "source": "№11",
+      "destination": "№34",
+      "weight": 3
+    },
+    {
+      "source": "№11",
+      "destination": "№35",
+      "weight": 5
+    },
+    {
+      "source": "№11",
+      "destination": "№41",
+      "weight": 15
+    },
+    {
+      "source": "№11",
+      "destination": "№44",
+      "weight": 6
+    },
+    {
+      "source": "№11",
+      "destination": "№45",
+      "weight": 5
+    },
+    {
+      "source": "№11",
+      "destination": "№50",
+      "weight": 14
+    },
+    {
+      "source": "№11",
+      "destination": "№51",
+      "weight": 9
+    },
+    {
+      "source": "№11",
+      "destination": "№52",
+      "weight": 14
+    },
+    {
+      "source": "№11",
+      "destination": "№62",
+      "weight": 14
+    },
+    {
+      "source": "№11",
+      "destination": "№69",
+      "weight": 12
+    },
+    {
+      "source": "№11",
+      "destination": "№72",
+      "weight": 11
+    },
+    {
+      "source": "№11",
+      "destination": "№75",
+      "weight": 2
+    },
+    {
+      "source": "№11",
+      "destination": "№76",
+      "weight": 15
+    },
+    {
+      "source": "№11",
+      "destination": "№78",
+      "weight": 4
+    },
+    {
+      "source": "№11",
+      "destination": "№80",
+      "weight": 8
+    },
+    {
+      "source": "№11",
+      "destination": "№82",
+      "weight": 15
+    },
+    {
+      "source": "№11",
+      "destination": "№85",
+      "weight": 13
+    },
+    {
+      "source": "№12",
+      "destination": "№13",
+      "weight": 7
+    },
+    {
+      "source": "№12",
+      "destination": "№17",
+      "weight": 8
+    },
+    {
+      "source": "№12",
+      "destination": "№19",
+      "weight": 8
+    },
+    {
+      "source": "№12",
+      "destination": "№21",
+      "weight": 10
+    },
+    {
+      "source": "№12",
+      "destination": "№22",
+      "weight": 4
+    },
+    {
+      "source": "№12",
+      "destination": "№23",
+      "weight": 6
+    },
+    {
+      "source": "№12",
+      "destination": "№25",
+      "weight": 5
+    },
+    {
+      "source": "№12",
+      "destination": "№26",
+      "weight": 10
+    },
+    {
+      "source": "№12",
+      "destination": "№27",
+      "weight": 5
+    },
+    {
+      "source": "№12",
+      "destination": "№34",
+      "weight": 6
+    },
+    {
+      "source": "№12",
+      "destination": "№37",
+      "weight": 14
+    },
+    {
+      "source": "№12",
+      "destination": "№38",
+      "weight": 3
+    },
+    {
+      "source": "№12",
+      "destination": "№40",
+      "weight": 7
+    },
+    {
+      "source": "№12",
+      "destination": "№42",
+      "weight": 5
+    },
+    {
+      "source": "№12",
+      "destination": "№45",
+      "weight": 2
+    },
+    {
+      "source": "№12",
+      "destination": "№47",
+      "weight": 15
+    },
+    {
+      "source": "№12",
+      "destination": "№52",
+      "weight": 12
+    },
+    {
+      "source": "№12",
+      "destination": "№55",
+      "weight": 10
+    },
+    {
+      "source": "№12",
+      "destination": "№56",
+      "weight": 8
+    },
+    {
+      "source": "№12",
+      "destination": "№58",
+      "weight": 3
+    },
+    {
+      "source": "№12",
+      "destination": "№61",
+      "weight": 10
+    },
+    {
+      "source": "№12",
+      "destination": "№64",
+      "weight": 6
+    },
+    {
+      "source": "№12",
+      "destination": "№65",
+      "weight": 3
+    },
+    {
+      "source": "№12",
+      "destination": "№70",
+      "weight": 10
+    },
+    {
+      "source": "№12",
+      "destination": "№71",
+      "weight": 8
+    },
+    {
+      "source": "№12",
+      "destination": "№76",
+      "weight": 12
+    },
+    {
+      "source": "№12",
+      "destination": "№77",
+      "weight": 5
+    },
+    {
+      "source": "№12",
+      "destination": "№81",
+      "weight": 3
+    },
+    {
+      "source": "№12",
+      "destination": "№84",
+      "weight": 11
+    },
+    {
+      "source": "№13",
+      "destination": "№15",
+      "weight": 12
+    },
+    {
+      "source": "№13",
+      "destination": "№17",
+      "weight": 5
+    },
+    {
+      "source": "№13",
+      "destination": "№20",
+      "weight": 3
+    },
+    {
+      "source": "№13",
+      "destination": "№24",
+      "weight": 10
+    },
+    {
+      "source": "№13",
+      "destination": "№28",
+      "weight": 5
+    },
+    {
+      "source": "№13",
+      "destination": "№29",
+      "weight": 7
+    },
+    {
+      "source": "№13",
+      "destination": "№32",
+      "weight": 6
+    },
+    {
+      "source": "№13",
+      "destination": "№33",
+      "weight": 12
+    },
+    {
+      "source": "№13",
+      "destination": "№36",
+      "weight": 8
+    },
+    {
+      "source": "№13",
+      "destination": "№37",
+      "weight": 3
+    },
+    {
+      "source": "№13",
+      "destination": "№39",
+      "weight": 10
+    },
+    {
+      "source": "№13",
+      "destination": "№41",
+      "weight": 13
+    },
+    {
+      "source": "№13",
+      "destination": "№43",
+      "weight": 3
+    },
+    {
+      "source": "№13",
+      "destination": "№47",
+      "weight": 11
+    },
+    {
+      "source": "№13",
+      "destination": "№48",
+      "weight": 3
+    },
+    {
+      "source": "№13",
+      "destination": "№50",
+      "weight": 9
+    },
+    {
+      "source": "№13",
+      "destination": "№52",
+      "weight": 7
+    },
+    {
+      "source": "№13",
+      "destination": "№53",
+      "weight": 15
+    },
+    {
+      "source": "№13",
+      "destination": "№56",
+      "weight": 9
+    },
+    {
+      "source": "№13",
+      "destination": "№57",
+      "weight": 4
+    },
+    {
+      "source": "№13",
+      "destination": "№63",
+      "weight": 2
+    },
+    {
+      "source": "№13",
+      "destination": "№65",
+      "weight": 3
+    },
+    {
+      "source": "№13",
+      "destination": "№66",
+      "weight": 1
+    },
+    {
+      "source": "№13",
+      "destination": "№71",
+      "weight": 15
+    },
+    {
+      "source": "№13",
+      "destination": "№73",
+      "weight": 12
+    },
+    {
+      "source": "№13",
+      "destination": "№74",
+      "weight": 12
+    },
+    {
+      "source": "№13",
+      "destination": "№75",
+      "weight": 7
+    },
+    {
+      "source": "№13",
+      "destination": "№80",
+      "weight": 7
+    },
+    {
+      "source": "№13",
+      "destination": "№81",
+      "weight": 15
+    },
+    {
+      "source": "№13",
+      "destination": "№83",
+      "weight": 2
+    },
+    {
+      "source": "№14",
+      "destination": "№16",
+      "weight": 13
+    },
+    {
+      "source": "№14",
+      "destination": "№17",
+      "weight": 5
+    },
+    {
+      "source": "№14",
+      "destination": "№18",
+      "weight": 14
+    },
+    {
+      "source": "№14",
+      "destination": "№19",
+      "weight": 14
+    },
+    {
+      "source": "№14",
+      "destination": "№22",
+      "weight": 14
+    },
+    {
+      "source": "№14",
+      "destination": "№24",
+      "weight": 11
+    },
+    {
+      "source": "№14",
+      "destination": "№25",
+      "weight": 15
+    },
+    {
+      "source": "№14",
+      "destination": "№28",
+      "weight": 10
+    },
+    {
+      "source": "№14",
+      "destination": "№32",
+      "weight": 5
+    },
+    {
+      "source": "№14",
+      "destination": "№37",
+      "weight": 14
+    },
+    {
+      "source": "№14",
+      "destination": "№38",
+      "weight": 2
+    },
+    {
+      "source": "№14",
+      "destination": "№42",
+      "weight": 12
+    },
+    {
+      "source": "№14",
+      "destination": "№43",
+      "weight": 3
+    },
+    {
+      "source": "№14",
+      "destination": "№51",
+      "weight": 10
+    },
+    {
+      "source": "№14",
+      "destination": "№58",
+      "weight": 9
+    },
+    {
+      "source": "№14",
+      "destination": "№60",
+      "weight": 15
+    },
+    {
+      "source": "№14",
+      "destination": "№65",
+      "weight": 12
+    },
+    {
+      "source": "№14",
+      "destination": "№70",
+      "weight": 14
+    },
+    {
+      "source": "№14",
+      "destination": "№76",
+      "weight": 9
+    },
+    {
+      "source": "№14",
+      "destination": "№79",
+      "weight": 10
+    },
+    {
+      "source": "№14",
+      "destination": "№82",
+      "weight": 3
+    },
+    {
+      "source": "№14",
+      "destination": "№85",
+      "weight": 9
+    },
+    {
+      "source": "№15",
+      "destination": "№23",
+      "weight": 10
+    },
+    {
+      "source": "№15",
+      "destination": "№25",
+      "weight": 12
+    },
+    {
+      "source": "№15",
+      "destination": "№30",
+      "weight": 15
+    },
+    {
+      "source": "№15",
+      "destination": "№32",
+      "weight": 6
+    },
+    {
+      "source": "№15",
+      "destination": "№34",
+      "weight": 4
+    },
+    {
+      "source": "№15",
+      "destination": "№38",
+      "weight": 5
+    },
+    {
+      "source": "№15",
+      "destination": "№45",
+      "weight": 15
+    },
+    {
+      "source": "№15",
+      "destination": "№46",
+      "weight": 2
+    },
+    {
+      "source": "№15",
+      "destination": "№48",
+      "weight": 6
+    },
+    {
+      "source": "№15",
+      "destination": "№50",
+      "weight": 3
+    },
+    {
+      "source": "№15",
+      "destination": "№54",
+      "weight": 4
+    },
+    {
+      "source": "№15",
+      "destination": "№55",
+      "weight": 1
+    },
+    {
+      "source": "№15",
+      "destination": "№57",
+      "weight": 1
+    },
+    {
+      "source": "№15",
+      "destination": "№62",
+      "weight": 13
+    },
+    {
+      "source": "№15",
+      "destination": "№69",
+      "weight": 10
+    },
+    {
+      "source": "№15",
+      "destination": "№74",
+      "weight": 5
+    },
+    {
+      "source": "№15",
+      "destination": "№77",
+      "weight": 12
+    },
+    {
+      "source": "№15",
+      "destination": "№78",
+      "weight": 1
+    },
+    {
+      "source": "№16",
+      "destination": "№18",
+      "weight": 14
+    },
+    {
+      "source": "№16",
+      "destination": "№21",
+      "weight": 4
+    },
+    {
+      "source": "№16",
+      "destination": "№26",
+      "weight": 5
+    },
+    {
+      "source": "№16",
+      "destination": "№28",
+      "weight": 14
+    },
+    {
+      "source": "№16",
+      "destination": "№29",
+      "weight": 15
+    },
+    {
+      "source": "№16",
+      "destination": "№30",
+      "weight": 6
+    },
+    {
+      "source": "№16",
+      "destination": "№32",
+      "weight": 8
+    },
+    {
+      "source": "№16",
+      "destination": "№33",
+      "weight": 6
+    },
+    {
+      "source": "№16",
+      "destination": "№34",
+      "weight": 3
+    },
+    {
+      "source": "№16",
+      "destination": "№35",
+      "weight": 1
+    },
+    {
+      "source": "№16",
+      "destination": "№37",
+      "weight": 5
+    },
+    {
+      "source": "№16",
+      "destination": "№38",
+      "weight": 7
+    },
+    {
+      "source": "№16",
+      "destination": "№39",
+      "weight": 8
+    },
+    {
+      "source": "№16",
+      "destination": "№45",
+      "weight": 7
+    },
+    {
+      "source": "№16",
+      "destination": "№46",
+      "weight": 1
+    },
+    {
+      "source": "№16",
+      "destination": "№48",
+      "weight": 8
+    },
+    {
+      "source": "№16",
+      "destination": "№51",
+      "weight": 2
+    },
+    {
+      "source": "№16",
+      "destination": "№53",
+      "weight": 9
+    },
+    {
+      "source": "№16",
+      "destination": "№56",
+      "weight": 10
+    },
+    {
+      "source": "№16",
+      "destination": "№63",
+      "weight": 4
+    },
+    {
+      "source": "№16",
+      "destination": "№68",
+      "weight": 10
+    },
+    {
+      "source": "№16",
+      "destination": "№72",
+      "weight": 3
+    },
+    {
+      "source": "№16",
+      "destination": "№77",
+      "weight": 13
+    },
+    {
+      "source": "№16",
+      "destination": "№83",
+      "weight": 15
+    },
+    {
+      "source": "№16",
+      "destination": "№84",
+      "weight": 14
+    },
+    {
+      "source": "№16",
+      "destination": "№85",
+      "weight": 15
+    },
+    {
+      "source": "№17",
+      "destination": "№18",
+      "weight": 12
+    },
+    {
+      "source": "№17",
+      "destination": "№19",
+      "weight": 4
+    },
+    {
+      "source": "№17",
+      "destination": "№21",
+      "weight": 2
+    },
+    {
+      "source": "№17",
+      "destination": "№23",
+      "weight": 9
+    },
+    {
+      "source": "№17",
+      "destination": "№25",
+      "weight": 8
+    },
+    {
+      "source": "№17",
+      "destination": "№27",
+      "weight": 2
+    },
+    {
+      "source": "№17",
+      "destination": "№28",
+      "weight": 15
+    },
+    {
+      "source": "№17",
+      "destination": "№35",
+      "weight": 5
+    },
+    {
+      "source": "№17",
+      "destination": "№38",
+      "weight": 14
+    },
+    {
+      "source": "№17",
+      "destination": "№42",
+      "weight": 12
+    },
+    {
+      "source": "№17",
+      "destination": "№43",
+      "weight": 6
+    },
+    {
+      "source": "№17",
+      "destination": "№47",
+      "weight": 15
+    },
+    {
+      "source": "№17",
+      "destination": "№49",
+      "weight": 15
+    },
+    {
+      "source": "№17",
+      "destination": "№50",
+      "weight": 9
+    },
+    {
+      "source": "№17",
+      "destination": "№51",
+      "weight": 8
+    },
+    {
+      "source": "№17",
+      "destination": "№54",
+      "weight": 13
+    },
+    {
+      "source": "№17",
+      "destination": "№57",
+      "weight": 6
+    },
+    {
+      "source": "№17",
+      "destination": "№61",
+      "weight": 14
+    },
+    {
+      "source": "№17",
+      "destination": "№62",
+      "weight": 10
+    },
+    {
+      "source": "№17",
+      "destination": "№65",
+      "weight": 3
+    },
+    {
+      "source": "№17",
+      "destination": "№69",
+      "weight": 4
+    },
+    {
+      "source": "№17",
+      "destination": "№72",
+      "weight": 5
+    },
+    {
+      "source": "№17",
+      "destination": "№73",
+      "weight": 6
+    },
+    {
+      "source": "№17",
+      "destination": "№75",
+      "weight": 6
+    },
+    {
+      "source": "№17",
+      "destination": "№81",
+      "weight": 14
+    },
+    {
+      "source": "№18",
+      "destination": "№20",
+      "weight": 5
+    },
+    {
+      "source": "№18",
+      "destination": "№21",
+      "weight": 10
+    },
+    {
+      "source": "№18",
+      "destination": "№23",
+      "weight": 2
+    },
+    {
+      "source": "№18",
+      "destination": "№27",
+      "weight": 4
+    },
+    {
+      "source": "№18",
+      "destination": "№28",
+      "weight": 3
+    },
+    {
+      "source": "№18",
+      "destination": "№31",
+      "weight": 11
+    },
+    {
+      "source": "№18",
+      "destination": "№36",
+      "weight": 2
+    },
+    {
+      "source": "№18",
+      "destination": "№37",
+      "weight": 7
+    },
+    {
+      "source": "№18",
+      "destination": "№40",
+      "weight": 15
+    },
+    {
+      "source": "№18",
+      "destination": "№41",
+      "weight": 14
+    },
+    {
+      "source": "№18",
+      "destination": "№45",
+      "weight": 7
+    },
+    {
+      "source": "№18",
+      "destination": "№46",
+      "weight": 8
+    },
+    {
+      "source": "№18",
+      "destination": "№48",
+      "weight": 11
+    },
+    {
+      "source": "№18",
+      "destination": "№51",
+      "weight": 10
+    },
+    {
+      "source": "№18",
+      "destination": "№52",
+      "weight": 14
+    },
+    {
+      "source": "№18",
+      "destination": "№53",
+      "weight": 13
+    },
+    {
+      "source": "№18",
+      "destination": "№57",
+      "weight": 10
+    },
+    {
+      "source": "№18",
+      "destination": "№63",
+      "weight": 13
+    },
+    {
+      "source": "№18",
+      "destination": "№67",
+      "weight": 6
+    },
+    {
+      "source": "№18",
+      "destination": "№68",
+      "weight": 1
+    },
+    {
+      "source": "№18",
+      "destination": "№69",
+      "weight": 6
+    },
+    {
+      "source": "№18",
+      "destination": "№71",
+      "weight": 3
+    },
+    {
+      "source": "№18",
+      "destination": "№72",
+      "weight": 14
+    },
+    {
+      "source": "№18",
+      "destination": "№73",
+      "weight": 11
+    },
+    {
+      "source": "№18",
+      "destination": "№82",
+      "weight": 14
+    },
+    {
+      "source": "№18",
+      "destination": "№83",
+      "weight": 7
+    },
+    {
+      "source": "№18",
+      "destination": "№84",
+      "weight": 14
+    },
+    {
+      "source": "№18",
+      "destination": "№85",
+      "weight": 7
+    },
+    {
+      "source": "№19",
+      "destination": "№20",
+      "weight": 8
+    },
+    {
+      "source": "№19",
+      "destination": "№24",
+      "weight": 15
+    },
+    {
+      "source": "№19",
+      "destination": "№27",
+      "weight": 11
+    },
+    {
+      "source": "№19",
+      "destination": "№36",
+      "weight": 14
+    },
+    {
+      "source": "№19",
+      "destination": "№37",
+      "weight": 8
+    },
+    {
+      "source": "№19",
+      "destination": "№38",
+      "weight": 5
+    },
+    {
+      "source": "№19",
+      "destination": "№42",
+      "weight": 12
+    },
+    {
+      "source": "№19",
+      "destination": "№48",
+      "weight": 15
+    },
+    {
+      "source": "№19",
+      "destination": "№49",
+      "weight": 1
+    },
+    {
+      "source": "№19",
+      "destination": "№51",
+      "weight": 5
+    },
+    {
+      "source": "№19",
+      "destination": "№53",
+      "weight": 2
+    },
+    {
+      "source": "№19",
+      "destination": "№55",
+      "weight": 1
+    },
+    {
+      "source": "№19",
+      "destination": "№57",
+      "weight": 12
+    },
+    {
+      "source": "№19",
+      "destination": "№59",
+      "weight": 14
+    },
+    {
+      "source": "№19",
+      "destination": "№64",
+      "weight": 15
+    },
+    {
+      "source": "№19",
+      "destination": "№67",
+      "weight": 2
+    },
+    {
+      "source": "№19",
+      "destination": "№72",
+      "weight": 2
+    },
+    {
+      "source": "№19",
+      "destination": "№73",
+      "weight": 7
+    },
+    {
+      "source": "№19",
+      "destination": "№74",
+      "weight": 1
+    },
+    {
+      "source": "№19",
+      "destination": "№75",
+      "weight": 8
+    },
+    {
+      "source": "№19",
+      "destination": "№76",
+      "weight": 6
+    },
+    {
+      "source": "№19",
+      "destination": "№79",
+      "weight": 12
+    },
+    {
+      "source": "№19",
+      "destination": "№81",
+      "weight": 14
+    },
+    {
+      "source": "№20",
+      "destination": "№30",
+      "weight": 2
+    },
+    {
+      "source": "№20",
+      "destination": "№32",
+      "weight": 15
+    },
+    {
+      "source": "№20",
+      "destination": "№37",
+      "weight": 15
+    },
+    {
+      "source": "№20",
+      "destination": "№39",
+      "weight": 2
+    },
+    {
+      "source": "№20",
+      "destination": "№42",
+      "weight": 13
+    },
+    {
+      "source": "№20",
+      "destination": "№45",
+      "weight": 4
+    },
+    {
+      "source": "№20",
+      "destination": "№47",
+      "weight": 9
+    },
+    {
+      "source": "№20",
+      "destination": "№49",
+      "weight": 6
+    },
+    {
+      "source": "№20",
+      "destination": "№51",
+      "weight": 15
+    },
+    {
+      "source": "№20",
+      "destination": "№57",
+      "weight": 5
+    },
+    {
+      "source": "№20",
+      "destination": "№60",
+      "weight": 1
+    },
+    {
+      "source": "№20",
+      "destination": "№61",
+      "weight": 4
+    },
+    {
+      "source": "№20",
+      "destination": "№63",
+      "weight": 5
+    },
+    {
+      "source": "№20",
+      "destination": "№68",
+      "weight": 12
+    },
+    {
+      "source": "№20",
+      "destination": "№71",
+      "weight": 12
+    },
+    {
+      "source": "№20",
+      "destination": "№74",
+      "weight": 6
+    },
+    {
+      "source": "№20",
+      "destination": "№75",
+      "weight": 1
+    },
+    {
+      "source": "№20",
+      "destination": "№82",
+      "weight": 12
+    },
+    {
+      "source": "№20",
+      "destination": "№83",
+      "weight": 7
+    },
+    {
+      "source": "№20",
+      "destination": "№84",
+      "weight": 3
+    },
+    {
+      "source": "№21",
+      "destination": "№26",
+      "weight": 4
+    },
+    {
+      "source": "№21",
+      "destination": "№37",
+      "weight": 13
+    },
+    {
+      "source": "№21",
+      "destination": "№39",
+      "weight": 4
+    },
+    {
+      "source": "№21",
+      "destination": "№40",
+      "weight": 3
+    },
+    {
+      "source": "№21",
+      "destination": "№41",
+      "weight": 4
+    },
+    {
+      "source": "№21",
+      "destination": "№42",
+      "weight": 12
+    },
+    {
+      "source": "№21",
+      "destination": "№43",
+      "weight": 7
+    },
+    {
+      "source": "№21",
+      "destination": "№46",
+      "weight": 10
+    },
+    {
+      "source": "№21",
+      "destination": "№48",
+      "weight": 9
+    },
+    {
+      "source": "№21",
+      "destination": "№51",
+      "weight": 11
+    },
+    {
+      "source": "№21",
+      "destination": "№52",
+      "weight": 11
+    },
+    {
+      "source": "№21",
+      "destination": "№55",
+      "weight": 3
+    },
+    {
+      "source": "№21",
+      "destination": "№58",
+      "weight": 9
+    },
+    {
+      "source": "№21",
+      "destination": "№60",
+      "weight": 13
+    },
+    {
+      "source": "№21",
+      "destination": "№61",
+      "weight": 6
+    },
+    {
+      "source": "№21",
+      "destination": "№63",
+      "weight": 7
+    },
+    {
+      "source": "№21",
+      "destination": "№64",
+      "weight": 7
+    },
+    {
+      "source": "№21",
+      "destination": "№67",
+      "weight": 9
+    },
+    {
+      "source": "№21",
+      "destination": "№73",
+      "weight": 14
+    },
+    {
+      "source": "№21",
+      "destination": "№81",
+      "weight": 10
+    },
+    {
+      "source": "№21",
+      "destination": "№83",
+      "weight": 9
+    },
+    {
+      "source": "№21",
+      "destination": "№84",
+      "weight": 15
+    },
+    {
+      "source": "№22",
+      "destination": "№23",
+      "weight": 13
+    },
+    {
+      "source": "№22",
+      "destination": "№27",
+      "weight": 13
+    },
+    {
+      "source": "№22",
+      "destination": "№28",
+      "weight": 9
+    },
+    {
+      "source": "№22",
+      "destination": "№29",
+      "weight": 5
+    },
+    {
+      "source": "№22",
+      "destination": "№34",
+      "weight": 3
+    },
+    {
+      "source": "№22",
+      "destination": "№35",
+      "weight": 10
+    },
+    {
+      "source": "№22",
+      "destination": "№36",
+      "weight": 10
+    },
+    {
+      "source": "№22",
+      "destination": "№38",
+      "weight": 15
+    },
+    {
+      "source": "№22",
+      "destination": "№40",
+      "weight": 3
+    },
+    {
+      "source": "№22",
+      "destination": "№41",
+      "weight": 15
+    },
+    {
+      "source": "№22",
+      "destination": "№42",
+      "weight": 12
+    },
+    {
+      "source": "№22",
+      "destination": "№43",
+      "weight": 1
+    },
+    {
+      "source": "№22",
+      "destination": "№44",
+      "weight": 9
+    },
+    {
+      "source": "№22",
+      "destination": "№46",
+      "weight": 7
+    },
+    {
+      "source": "№22",
+      "destination": "№52",
+      "weight": 8
+    },
+    {
+      "source": "№22",
+      "destination": "№56",
+      "weight": 10
+    },
+    {
+      "source": "№22",
+      "destination": "№60",
+      "weight": 2
+    },
+    {
+      "source": "№22",
+      "destination": "№61",
+      "weight": 14
+    },
+    {
+      "source": "№22",
+      "destination": "№62",
+      "weight": 10
+    },
+    {
+      "source": "№22",
+      "destination": "№65",
+      "weight": 6
+    },
+    {
+      "source": "№22",
+      "destination": "№67",
+      "weight": 7
+    },
+    {
+      "source": "№22",
+      "destination": "№70",
+      "weight": 10
+    },
+    {
+      "source": "№22",
+      "destination": "№71",
+      "weight": 8
+    },
+    {
+      "source": "№22",
+      "destination": "№75",
+      "weight": 1
+    },
+    {
+      "source": "№22",
+      "destination": "№82",
+      "weight": 2
+    },
+    {
+      "source": "№22",
+      "destination": "№83",
+      "weight": 9
+    },
+    {
+      "source": "№23",
+      "destination": "№24",
+      "weight": 13
+    },
+    {
+      "source": "№23",
+      "destination": "№28",
+      "weight": 8
+    },
+    {
+      "source": "№23",
+      "destination": "№29",
+      "weight": 11
+    },
+    {
+      "source": "№23",
+      "destination": "№32",
+      "weight": 2
+    },
+    {
+      "source": "№23",
+      "destination": "№36",
+      "weight": 3
+    },
+    {
+      "source": "№23",
+      "destination": "№38",
+      "weight": 7
+    },
+    {
+      "source": "№23",
+      "destination": "№40",
+      "weight": 14
+    },
+    {
+      "source": "№23",
+      "destination": "№43",
+      "weight": 14
+    },
+    {
+      "source": "№23",
+      "destination": "№47",
+      "weight": 6
+    },
+    {
+      "source": "№23",
+      "destination": "№48",
+      "weight": 1
+    },
+    {
+      "source": "№23",
+      "destination": "№49",
+      "weight": 12
+    },
+    {
+      "source": "№23",
+      "destination": "№50",
+      "weight": 5
+    },
+    {
+      "source": "№23",
+      "destination": "№51",
+      "weight": 1
+    },
+    {
+      "source": "№23",
+      "destination": "№54",
+      "weight": 8
+    },
+    {
+      "source": "№23",
+      "destination": "№59",
+      "weight": 15
+    },
+    {
+      "source": "№23",
+      "destination": "№64",
+      "weight": 12
+    },
+    {
+      "source": "№23",
+      "destination": "№67",
+      "weight": 13
+    },
+    {
+      "source": "№23",
+      "destination": "№69",
+      "weight": 1
+    },
+    {
+      "source": "№23",
+      "destination": "№76",
+      "weight": 11
+    },
+    {
+      "source": "№24",
+      "destination": "№27",
+      "weight": 13
+    },
+    {
+      "source": "№24",
+      "destination": "№28",
+      "weight": 12
+    },
+    {
+      "source": "№24",
+      "destination": "№31",
+      "weight": 12
+    },
+    {
+      "source": "№24",
+      "destination": "№32",
+      "weight": 8
+    },
+    {
+      "source": "№24",
+      "destination": "№34",
+      "weight": 9
+    },
+    {
+      "source": "№24",
+      "destination": "№36",
+      "weight": 13
+    },
+    {
+      "source": "№24",
+      "destination": "№40",
+      "weight": 8
+    },
+    {
+      "source": "№24",
+      "destination": "№44",
+      "weight": 6
+    },
+    {
+      "source": "№24",
+      "destination": "№46",
+      "weight": 14
+    },
+    {
+      "source": "№24",
+      "destination": "№47",
+      "weight": 1
+    },
+    {
+      "source": "№24",
+      "destination": "№48",
+      "weight": 9
+    },
+    {
+      "source": "№24",
+      "destination": "№52",
+      "weight": 12
+    },
+    {
+      "source": "№24",
+      "destination": "№54",
+      "weight": 7
+    },
+    {
+      "source": "№24",
+      "destination": "№57",
+      "weight": 7
+    },
+    {
+      "source": "№24",
+      "destination": "№61",
+      "weight": 13
+    },
+    {
+      "source": "№24",
+      "destination": "№62",
+      "weight": 10
+    },
+    {
+      "source": "№24",
+      "destination": "№69",
+      "weight": 7
+    },
+    {
+      "source": "№24",
+      "destination": "№72",
+      "weight": 1
+    },
+    {
+      "source": "№24",
+      "destination": "№76",
+      "weight": 1
+    },
+    {
+      "source": "№24",
+      "destination": "№84",
+      "weight": 4
+    },
+    {
+      "source": "№25",
+      "destination": "№26",
+      "weight": 14
+    },
+    {
+      "source": "№25",
+      "destination": "№28",
+      "weight": 9
+    },
+    {
+      "source": "№25",
+      "destination": "№30",
+      "weight": 14
+    },
+    {
+      "source": "№25",
+      "destination": "№38",
+      "weight": 9
+    },
+    {
+      "source": "№25",
+      "destination": "№40",
+      "weight": 8
+    },
+    {
+      "source": "№25",
+      "destination": "№42",
+      "weight": 4
+    },
+    {
+      "source": "№25",
+      "destination": "№51",
+      "weight": 3
+    },
+    {
+      "source": "№25",
+      "destination": "№53",
+      "weight": 12
+    },
+    {
+      "source": "№25",
+      "destination": "№55",
+      "weight": 10
+    },
+    {
+      "source": "№25",
+      "destination": "№56",
+      "weight": 8
+    },
+    {
+      "source": "№25",
+      "destination": "№58",
+      "weight": 3
+    },
+    {
+      "source": "№25",
+      "destination": "№60",
+      "weight": 4
+    },
+    {
+      "source": "№25",
+      "destination": "№61",
+      "weight": 3
+    },
+    {
+      "source": "№25",
+      "destination": "№67",
+      "weight": 12
+    },
+    {
+      "source": "№25",
+      "destination": "№73",
+      "weight": 13
+    },
+    {
+      "source": "№25",
+      "destination": "№74",
+      "weight": 3
+    },
+    {
+      "source": "№25",
+      "destination": "№77",
+      "weight": 9
+    },
+    {
+      "source": "№25",
+      "destination": "№78",
+      "weight": 12
+    },
+    {
+      "source": "№25",
+      "destination": "№79",
+      "weight": 1
+    },
+    {
+      "source": "№25",
+      "destination": "№85",
+      "weight": 7
+    },
+    {
+      "source": "№26",
+      "destination": "№27",
+      "weight": 11
+    },
+    {
+      "source": "№26",
+      "destination": "№33",
+      "weight": 6
+    },
+    {
+      "source": "№26",
+      "destination": "№34",
+      "weight": 9
+    },
+    {
+      "source": "№26",
+      "destination": "№38",
+      "weight": 2
+    },
+    {
+      "source": "№26",
+      "destination": "№40",
+      "weight": 2
+    },
+    {
+      "source": "№26",
+      "destination": "№41",
+      "weight": 10
+    },
+    {
+      "source": "№26",
+      "destination": "№42",
+      "weight": 2
+    },
+    {
+      "source": "№26",
+      "destination": "№43",
+      "weight": 6
+    },
+    {
+      "source": "№26",
+      "destination": "№44",
+      "weight": 7
+    },
+    {
+      "source": "№26",
+      "destination": "№45",
+      "weight": 8
+    },
+    {
+      "source": "№26",
+      "destination": "№49",
+      "weight": 1
+    },
+    {
+      "source": "№26",
+      "destination": "№50",
+      "weight": 4
+    },
+    {
+      "source": "№26",
+      "destination": "№52",
+      "weight": 3
+    },
+    {
+      "source": "№26",
+      "destination": "№53",
+      "weight": 2
+    },
+    {
+      "source": "№26",
+      "destination": "№59",
+      "weight": 8
+    },
+    {
+      "source": "№26",
+      "destination": "№60",
+      "weight": 1
+    },
+    {
+      "source": "№26",
+      "destination": "№61",
+      "weight": 15
+    },
+    {
+      "source": "№26",
+      "destination": "№63",
+      "weight": 2
+    },
+    {
+      "source": "№26",
+      "destination": "№68",
+      "weight": 4
+    },
+    {
+      "source": "№26",
+      "destination": "№69",
+      "weight": 7
+    },
+    {
+      "source": "№26",
+      "destination": "№70",
+      "weight": 3
+    },
+    {
+      "source": "№26",
+      "destination": "№71",
+      "weight": 4
+    },
+    {
+      "source": "№26",
+      "destination": "№72",
+      "weight": 7
+    },
+    {
+      "source": "№26",
+      "destination": "№74",
+      "weight": 15
+    },
+    {
+      "source": "№26",
+      "destination": "№75",
+      "weight": 15
+    },
+    {
+      "source": "№26",
+      "destination": "№76",
+      "weight": 11
+    },
+    {
+      "source": "№26",
+      "destination": "№78",
+      "weight": 7
+    },
+    {
+      "source": "№26",
+      "destination": "№79",
+      "weight": 1
+    },
+    {
+      "source": "№26",
+      "destination": "№80",
+      "weight": 7
+    },
+    {
+      "source": "№26",
+      "destination": "№85",
+      "weight": 5
+    },
+    {
+      "source": "№27",
+      "destination": "№28",
+      "weight": 7
+    },
+    {
+      "source": "№27",
+      "destination": "№32",
+      "weight": 7
+    },
+    {
+      "source": "№27",
+      "destination": "№33",
+      "weight": 14
+    },
+    {
+      "source": "№27",
+      "destination": "№37",
+      "weight": 12
+    },
+    {
+      "source": "№27",
+      "destination": "№39",
+      "weight": 2
+    },
+    {
+      "source": "№27",
+      "destination": "№40",
+      "weight": 9
+    },
+    {
+      "source": "№27",
+      "destination": "№41",
+      "weight": 4
+    },
+    {
+      "source": "№27",
+      "destination": "№56",
+      "weight": 15
+    },
+    {
+      "source": "№27",
+      "destination": "№57",
+      "weight": 11
+    },
+    {
+      "source": "№27",
+      "destination": "№58",
+      "weight": 4
+    },
+    {
+      "source": "№27",
+      "destination": "№59",
+      "weight": 13
+    },
+    {
+      "source": "№27",
+      "destination": "№60",
+      "weight": 13
+    },
+    {
+      "source": "№27",
+      "destination": "№63",
+      "weight": 10
+    },
+    {
+      "source": "№27",
+      "destination": "№67",
+      "weight": 7
+    },
+    {
+      "source": "№27",
+      "destination": "№69",
+      "weight": 3
+    },
+    {
+      "source": "№27",
+      "destination": "№74",
+      "weight": 15
+    },
+    {
+      "source": "№27",
+      "destination": "№76",
+      "weight": 13
+    },
+    {
+      "source": "№27",
+      "destination": "№77",
+      "weight": 12
+    },
+    {
+      "source": "№27",
+      "destination": "№82",
+      "weight": 9
+    },
+    {
+      "source": "№27",
+      "destination": "№83",
+      "weight": 13
+    },
+    {
+      "source": "№28",
+      "destination": "№30",
+      "weight": 12
+    },
+    {
+      "source": "№28",
+      "destination": "№32",
+      "weight": 5
+    },
+    {
+      "source": "№28",
+      "destination": "№35",
+      "weight": 12
+    },
+    {
+      "source": "№28",
+      "destination": "№37",
+      "weight": 1
+    },
+    {
+      "source": "№28",
+      "destination": "№38",
+      "weight": 15
+    },
+    {
+      "source": "№28",
+      "destination": "№39",
+      "weight": 11
+    },
+    {
+      "source": "№28",
+      "destination": "№41",
+      "weight": 12
+    },
+    {
+      "source": "№28",
+      "destination": "№46",
+      "weight": 2
+    },
+    {
+      "source": "№28",
+      "destination": "№47",
+      "weight": 1
+    },
+    {
+      "source": "№28",
+      "destination": "№51",
+      "weight": 4
+    },
+    {
+      "source": "№28",
+      "destination": "№53",
+      "weight": 7
+    },
+    {
+      "source": "№28",
+      "destination": "№56",
+      "weight": 11
+    },
+    {
+      "source": "№28",
+      "destination": "№58",
+      "weight": 11
+    },
+    {
+      "source": "№28",
+      "destination": "№60",
+      "weight": 6
+    },
+    {
+      "source": "№28",
+      "destination": "№62",
+      "weight": 5
+    },
+    {
+      "source": "№28",
+      "destination": "№63",
+      "weight": 7
+    },
+    {
+      "source": "№28",
+      "destination": "№64",
+      "weight": 13
+    },
+    {
+      "source": "№28",
+      "destination": "№65",
+      "weight": 14
+    },
+    {
+      "source": "№28",
+      "destination": "№71",
+      "weight": 11
+    },
+    {
+      "source": "№28",
+      "destination": "№72",
+      "weight": 1
+    },
+    {
+      "source": "№28",
+      "destination": "№76",
+      "weight": 2
+    },
+    {
+      "source": "№29",
+      "destination": "№31",
+      "weight": 11
+    },
+    {
+      "source": "№29",
+      "destination": "№33",
+      "weight": 6
+    },
+    {
+      "source": "№29",
+      "destination": "№34",
+      "weight": 7
+    },
+    {
+      "source": "№29",
+      "destination": "№36",
+      "weight": 14
+    },
+    {
+      "source": "№29",
+      "destination": "№39",
+      "weight": 11
+    },
+    {
+      "source": "№29",
+      "destination": "№40",
+      "weight": 4
+    },
+    {
+      "source": "№29",
+      "destination": "№42",
+      "weight": 3
+    },
+    {
+      "source": "№29",
+      "destination": "№43",
+      "weight": 10
+    },
+    {
+      "source": "№29",
+      "destination": "№47",
+      "weight": 6
+    },
+    {
+      "source": "№29",
+      "destination": "№59",
+      "weight": 4
+    },
+    {
+      "source": "№29",
+      "destination": "№61",
+      "weight": 7
+    },
+    {
+      "source": "№29",
+      "destination": "№67",
+      "weight": 10
+    },
+    {
+      "source": "№29",
+      "destination": "№68",
+      "weight": 12
+    },
+    {
+      "source": "№29",
+      "destination": "№69",
+      "weight": 3
+    },
+    {
+      "source": "№29",
+      "destination": "№70",
+      "weight": 4
+    },
+    {
+      "source": "№29",
+      "destination": "№71",
+      "weight": 11
+    },
+    {
+      "source": "№29",
+      "destination": "№72",
+      "weight": 2
+    },
+    {
+      "source": "№29",
+      "destination": "№77",
+      "weight": 6
+    },
+    {
+      "source": "№29",
+      "destination": "№80",
+      "weight": 3
+    },
+    {
+      "source": "№29",
+      "destination": "№82",
+      "weight": 9
+    },
+    {
+      "source": "№30",
+      "destination": "№36",
+      "weight": 7
+    },
+    {
+      "source": "№30",
+      "destination": "№40",
+      "weight": 3
+    },
+    {
+      "source": "№30",
+      "destination": "№41",
+      "weight": 6
+    },
+    {
+      "source": "№30",
+      "destination": "№42",
+      "weight": 2
+    },
+    {
+      "source": "№30",
+      "destination": "№47",
+      "weight": 9
+    },
+    {
+      "source": "№30",
+      "destination": "№49",
+      "weight": 10
+    },
+    {
+      "source": "№30",
+      "destination": "№50",
+      "weight": 13
+    },
+    {
+      "source": "№30",
+      "destination": "№52",
+      "weight": 12
+    },
+    {
+      "source": "№30",
+      "destination": "№54",
+      "weight": 10
+    },
+    {
+      "source": "№30",
+      "destination": "№57",
+      "weight": 2
+    },
+    {
+      "source": "№30",
+      "destination": "№60",
+      "weight": 1
+    },
+    {
+      "source": "№30",
+      "destination": "№62",
+      "weight": 6
+    },
+    {
+      "source": "№30",
+      "destination": "№69",
+      "weight": 3
+    },
+    {
+      "source": "№30",
+      "destination": "№70",
+      "weight": 14
+    },
+    {
+      "source": "№30",
+      "destination": "№73",
+      "weight": 8
+    },
+    {
+      "source": "№30",
+      "destination": "№81",
+      "weight": 5
+    },
+    {
+      "source": "№30",
+      "destination": "№84",
+      "weight": 3
+    },
+    {
+      "source": "№30",
+      "destination": "№85",
+      "weight": 10
+    },
+    {
+      "source": "№31",
+      "destination": "№36",
+      "weight": 5
+    },
+    {
+      "source": "№31",
+      "destination": "№37",
+      "weight": 4
+    },
+    {
+      "source": "№31",
+      "destination": "№40",
+      "weight": 1
+    },
+    {
+      "source": "№31",
+      "destination": "№42",
+      "weight": 14
+    },
+    {
+      "source": "№31",
+      "destination": "№46",
+      "weight": 15
+    },
+    {
+      "source": "№31",
+      "destination": "№47",
+      "weight": 7
+    },
+    {
+      "source": "№31",
+      "destination": "№51",
+      "weight": 13
+    },
+    {
+      "source": "№31",
+      "destination": "№53",
+      "weight": 10
+    },
+    {
+      "source": "№31",
+      "destination": "№55",
+      "weight": 3
+    },
+    {
+      "source": "№31",
+      "destination": "№61",
+      "weight": 9
+    },
+    {
+      "source": "№31",
+      "destination": "№62",
+      "weight": 7
+    },
+    {
+      "source": "№31",
+      "destination": "№65",
+      "weight": 10
+    },
+    {
+      "source": "№31",
+      "destination": "№70",
+      "weight": 9
+    },
+    {
+      "source": "№31",
+      "destination": "№73",
+      "weight": 12
+    },
+    {
+      "source": "№31",
+      "destination": "№74",
+      "weight": 10
+    },
+    {
+      "source": "№31",
+      "destination": "№75",
+      "weight": 10
+    },
+    {
+      "source": "№31",
+      "destination": "№76",
+      "weight": 12
+    },
+    {
+      "source": "№31",
+      "destination": "№78",
+      "weight": 12
+    },
+    {
+      "source": "№31",
+      "destination": "№81",
+      "weight": 14
+    },
+    {
+      "source": "№31",
+      "destination": "№83",
+      "weight": 7
+    },
+    {
+      "source": "№31",
+      "destination": "№84",
+      "weight": 9
+    },
+    {
+      "source": "№32",
+      "destination": "№34",
+      "weight": 15
+    },
+    {
+      "source": "№32",
+      "destination": "№39",
+      "weight": 6
+    },
+    {
+      "source": "№32",
+      "destination": "№40",
+      "weight": 13
+    },
+    {
+      "source": "№32",
+      "destination": "№41",
+      "weight": 4
+    },
+    {
+      "source": "№32",
+      "destination": "№43",
+      "weight": 8
+    },
+    {
+      "source": "№32",
+      "destination": "№44",
+      "weight": 9
+    },
+    {
+      "source": "№32",
+      "destination": "№46",
+      "weight": 3
+    },
+    {
+      "source": "№32",
+      "destination": "№48",
+      "weight": 15
+    },
+    {
+      "source": "№32",
+      "destination": "№52",
+      "weight": 4
+    },
+    {
+      "source": "№32",
+      "destination": "№53",
+      "weight": 13
+    },
+    {
+      "source": "№32",
+      "destination": "№65",
+      "weight": 14
+    },
+    {
+      "source": "№32",
+      "destination": "№66",
+      "weight": 9
+    },
+    {
+      "source": "№32",
+      "destination": "№68",
+      "weight": 8
+    },
+    {
+      "source": "№32",
+      "destination": "№70",
+      "weight": 3
+    },
+    {
+      "source": "№32",
+      "destination": "№72",
+      "weight": 9
+    },
+    {
+      "source": "№32",
+      "destination": "№75",
+      "weight": 11
+    },
+    {
+      "source": "№32",
+      "destination": "№77",
+      "weight": 8
+    },
+    {
+      "source": "№32",
+      "destination": "№84",
+      "weight": 8
+    },
+    {
+      "source": "№33",
+      "destination": "№37",
+      "weight": 11
+    },
+    {
+      "source": "№33",
+      "destination": "№41",
+      "weight": 14
+    },
+    {
+      "source": "№33",
+      "destination": "№44",
+      "weight": 2
+    },
+    {
+      "source": "№33",
+      "destination": "№45",
+      "weight": 2
+    },
+    {
+      "source": "№33",
+      "destination": "№46",
+      "weight": 14
+    },
+    {
+      "source": "№33",
+      "destination": "№49",
+      "weight": 14
+    },
+    {
+      "source": "№33",
+      "destination": "№54",
+      "weight": 13
+    },
+    {
+      "source": "№33",
+      "destination": "№58",
+      "weight": 9
+    },
+    {
+      "source": "№33",
+      "destination": "№60",
+      "weight": 7
+    },
+    {
+      "source": "№33",
+      "destination": "№65",
+      "weight": 5
+    },
+    {
+      "source": "№33",
+      "destination": "№67",
+      "weight": 12
+    },
+    {
+      "source": "№33",
+      "destination": "№69",
+      "weight": 14
+    },
+    {
+      "source": "№33",
+      "destination": "№77",
+      "weight": 7
+    },
+    {
+      "source": "№33",
+      "destination": "№78",
+      "weight": 1
+    },
+    {
+      "source": "№33",
+      "destination": "№82",
+      "weight": 13
+    },
+    {
+      "source": "№33",
+      "destination": "№83",
+      "weight": 14
+    },
+    {
+      "source": "№34",
+      "destination": "№36",
+      "weight": 2
+    },
+    {
+      "source": "№34",
+      "destination": "№37",
+      "weight": 13
+    },
+    {
+      "source": "№34",
+      "destination": "№40",
+      "weight": 5
+    },
+    {
+      "source": "№34",
+      "destination": "№41",
+      "weight": 12
+    },
+    {
+      "source": "№34",
+      "destination": "№42",
+      "weight": 7
+    },
+    {
+      "source": "№34",
+      "destination": "№48",
+      "weight": 2
+    },
+    {
+      "source": "№34",
+      "destination": "№53",
+      "weight": 3
+    },
+    {
+      "source": "№34",
+      "destination": "№54",
+      "weight": 14
+    },
+    {
+      "source": "№34",
+      "destination": "№55",
+      "weight": 13
+    },
+    {
+      "source": "№34",
+      "destination": "№59",
+      "weight": 7
+    },
+    {
+      "source": "№34",
+      "destination": "№60",
+      "weight": 3
+    },
+    {
+      "source": "№34",
+      "destination": "№66",
+      "weight": 6
+    },
+    {
+      "source": "№34",
+      "destination": "№73",
+      "weight": 11
+    },
+    {
+      "source": "№34",
+      "destination": "№78",
+      "weight": 2
+    },
+    {
+      "source": "№34",
+      "destination": "№81",
+      "weight": 11
+    },
+    {
+      "source": "№34",
+      "destination": "№83",
+      "weight": 10
+    },
+    {
+      "source": "№34",
+      "destination": "№84",
+      "weight": 1
+    },
+    {
+      "source": "№35",
+      "destination": "№37",
+      "weight": 10
+    },
+    {
+      "source": "№35",
+      "destination": "№47",
+      "weight": 9
+    },
+    {
+      "source": "№35",
+      "destination": "№48",
+      "weight": 14
+    },
+    {
+      "source": "№35",
+      "destination": "№49",
+      "weight": 6
+    },
+    {
+      "source": "№35",
+      "destination": "№50",
+      "weight": 7
+    },
+    {
+      "source": "№35",
+      "destination": "№54",
+      "weight": 10
+    },
+    {
+      "source": "№35",
+      "destination": "№55",
+      "weight": 4
+    },
+    {
+      "source": "№35",
+      "destination": "№57",
+      "weight": 8
+    },
+    {
+      "source": "№35",
+      "destination": "№58",
+      "weight": 13
+    },
+    {
+      "source": "№35",
+      "destination": "№63",
+      "weight": 2
+    },
+    {
+      "source": "№35",
+      "destination": "№66",
+      "weight": 7
+    },
+    {
+      "source": "№35",
+      "destination": "№72",
+      "weight": 9
+    },
+    {
+      "source": "№35",
+      "destination": "№74",
+      "weight": 1
+    },
+    {
+      "source": "№35",
+      "destination": "№76",
+      "weight": 7
+    },
+    {
+      "source": "№35",
+      "destination": "№78",
+      "weight": 2
+    },
+    {
+      "source": "№35",
+      "destination": "№79",
+      "weight": 7
+    },
+    {
+      "source": "№35",
+      "destination": "№82",
+      "weight": 15
+    },
+    {
+      "source": "№36",
+      "destination": "№44",
+      "weight": 11
+    },
+    {
+      "source": "№36",
+      "destination": "№46",
+      "weight": 8
+    },
+    {
+      "source": "№36",
+      "destination": "№48",
+      "weight": 2
+    },
+    {
+      "source": "№36",
+      "destination": "№49",
+      "weight": 1
+    },
+    {
+      "source": "№36",
+      "destination": "№50",
+      "weight": 9
+    },
+    {
+      "source": "№36",
+      "destination": "№52",
+      "weight": 11
+    },
+    {
+      "source": "№36",
+      "destination": "№54",
+      "weight": 2
+    },
+    {
+      "source": "№36",
+      "destination": "№55",
+      "weight": 15
+    },
+    {
+      "source": "№36",
+      "destination": "№56",
+      "weight": 14
+    },
+    {
+      "source": "№36",
+      "destination": "№57",
+      "weight": 3
+    },
+    {
+      "source": "№36",
+      "destination": "№60",
+      "weight": 12
+    },
+    {
+      "source": "№36",
+      "destination": "№61",
+      "weight": 12
+    },
+    {
+      "source": "№36",
+      "destination": "№62",
+      "weight": 15
+    },
+    {
+      "source": "№36",
+      "destination": "№63",
+      "weight": 12
+    },
+    {
+      "source": "№36",
+      "destination": "№73",
+      "weight": 3
+    },
+    {
+      "source": "№36",
+      "destination": "№75",
+      "weight": 10
+    },
+    {
+      "source": "№36",
+      "destination": "№76",
+      "weight": 11
+    },
+    {
+      "source": "№36",
+      "destination": "№79",
+      "weight": 6
+    },
+    {
+      "source": "№36",
+      "destination": "№83",
+      "weight": 14
+    },
+    {
+      "source": "№37",
+      "destination": "№38",
+      "weight": 3
+    },
+    {
+      "source": "№37",
+      "destination": "№41",
+      "weight": 10
+    },
+    {
+      "source": "№37",
+      "destination": "№42",
+      "weight": 5
+    },
+    {
+      "source": "№37",
+      "destination": "№43",
+      "weight": 5
+    },
+    {
+      "source": "№37",
+      "destination": "№47",
+      "weight": 4
+    },
+    {
+      "source": "№37",
+      "destination": "№48",
+      "weight": 5
+    },
+    {
+      "source": "№37",
+      "destination": "№49",
+      "weight": 6
+    },
+    {
+      "source": "№37",
+      "destination": "№50",
+      "weight": 5
+    },
+    {
+      "source": "№37",
+      "destination": "№56",
+      "weight": 11
+    },
+    {
+      "source": "№37",
+      "destination": "№66",
+      "weight": 11
+    },
+    {
+      "source": "№37",
+      "destination": "№67",
+      "weight": 13
+    },
+    {
+      "source": "№37",
+      "destination": "№68",
+      "weight": 10
+    },
+    {
+      "source": "№38",
+      "destination": "№40",
+      "weight": 8
+    },
+    {
+      "source": "№38",
+      "destination": "№45",
+      "weight": 5
+    },
+    {
+      "source": "№38",
+      "destination": "№48",
+      "weight": 8
+    },
+    {
+      "source": "№38",
+      "destination": "№53",
+      "weight": 8
+    },
+    {
+      "source": "№38",
+      "destination": "№54",
+      "weight": 6
+    },
+    {
+      "source": "№38",
+      "destination": "№55",
+      "weight": 12
+    },
+    {
+      "source": "№38",
+      "destination": "№58",
+      "weight": 4
+    },
+    {
+      "source": "№38",
+      "destination": "№63",
+      "weight": 13
+    },
+    {
+      "source": "№38",
+      "destination": "№71",
+      "weight": 6
+    },
+    {
+      "source": "№38",
+      "destination": "№74",
+      "weight": 9
+    },
+    {
+      "source": "№38",
+      "destination": "№81",
+      "weight": 14
+    },
+    {
+      "source": "№38",
+      "destination": "№83",
+      "weight": 8
+    },
+    {
+      "source": "№38",
+      "destination": "№85",
+      "weight": 11
+    },
+    {
+      "source": "№39",
+      "destination": "№40",
+      "weight": 7
+    },
+    {
+      "source": "№39",
+      "destination": "№45",
+      "weight": 1
+    },
+    {
+      "source": "№39",
+      "destination": "№46",
+      "weight": 4
+    },
+    {
+      "source": "№39",
+      "destination": "№48",
+      "weight": 3
+    },
+    {
+      "source": "№39",
+      "destination": "№51",
+      "weight": 6
+    },
+    {
+      "source": "№39",
+      "destination": "№53",
+      "weight": 10
+    },
+    {
+      "source": "№39",
+      "destination": "№54",
+      "weight": 6
+    },
+    {
+      "source": "№39",
+      "destination": "№55",
+      "weight": 4
+    },
+    {
+      "source": "№39",
+      "destination": "№59",
+      "weight": 13
+    },
+    {
+      "source": "№39",
+      "destination": "№62",
+      "weight": 11
+    },
+    {
+      "source": "№39",
+      "destination": "№65",
+      "weight": 9
+    },
+    {
+      "source": "№39",
+      "destination": "№68",
+      "weight": 8
+    },
+    {
+      "source": "№39",
+      "destination": "№70",
+      "weight": 11
+    },
+    {
+      "source": "№39",
+      "destination": "№71",
+      "weight": 14
+    },
+    {
+      "source": "№39",
+      "destination": "№73",
+      "weight": 15
+    },
+    {
+      "source": "№39",
+      "destination": "№76",
+      "weight": 10
+    },
+    {
+      "source": "№39",
+      "destination": "№77",
+      "weight": 10
+    },
+    {
+      "source": "№39",
+      "destination": "№80",
+      "weight": 9
+    },
+    {
+      "source": "№39",
+      "destination": "№81",
+      "weight": 13
+    },
+    {
+      "source": "№39",
+      "destination": "№83",
+      "weight": 8
+    },
+    {
+      "source": "№39",
+      "destination": "№84",
+      "weight": 13
+    },
+    {
+      "source": "№39",
+      "destination": "№85",
+      "weight": 6
+    },
+    {
+      "source": "№40",
+      "destination": "№44",
+      "weight": 4
+    },
+    {
+      "source": "№40",
+      "destination": "№49",
+      "weight": 5
+    },
+    {
+      "source": "№40",
+      "destination": "№50",
+      "weight": 6
+    },
+    {
+      "source": "№40",
+      "destination": "№51",
+      "weight": 3
+    },
+    {
+      "source": "№40",
+      "destination": "№52",
+      "weight": 6
+    },
+    {
+      "source": "№40",
+      "destination": "№55",
+      "weight": 3
+    },
+    {
+      "source": "№40",
+      "destination": "№58",
+      "weight": 13
+    },
+    {
+      "source": "№40",
+      "destination": "№59",
+      "weight": 15
+    },
+    {
+      "source": "№40",
+      "destination": "№62",
+      "weight": 6
+    },
+    {
+      "source": "№40",
+      "destination": "№63",
+      "weight": 15
+    },
+    {
+      "source": "№40",
+      "destination": "№65",
+      "weight": 10
+    },
+    {
+      "source": "№40",
+      "destination": "№67",
+      "weight": 3
+    },
+    {
+      "source": "№40",
+      "destination": "№69",
+      "weight": 15
+    },
+    {
+      "source": "№40",
+      "destination": "№70",
+      "weight": 7
+    },
+    {
+      "source": "№40",
+      "destination": "№74",
+      "weight": 9
+    },
+    {
+      "source": "№40",
+      "destination": "№76",
+      "weight": 3
+    },
+    {
+      "source": "№40",
+      "destination": "№79",
+      "weight": 8
+    },
+    {
+      "source": "№40",
+      "destination": "№83",
+      "weight": 4
+    },
+    {
+      "source": "№40",
+      "destination": "№85",
+      "weight": 11
+    },
+    {
+      "source": "№41",
+      "destination": "№48",
+      "weight": 11
+    },
+    {
+      "source": "№41",
+      "destination": "№52",
+      "weight": 7
+    },
+    {
+      "source": "№41",
+      "destination": "№54",
+      "weight": 10
+    },
+    {
+      "source": "№41",
+      "destination": "№56",
+      "weight": 1
+    },
+    {
+      "source": "№41",
+      "destination": "№59",
+      "weight": 11
+    },
+    {
+      "source": "№41",
+      "destination": "№60",
+      "weight": 9
+    },
+    {
+      "source": "№41",
+      "destination": "№69",
+      "weight": 14
+    },
+    {
+      "source": "№41",
+      "destination": "№72",
+      "weight": 7
+    },
+    {
+      "source": "№41",
+      "destination": "№73",
+      "weight": 10
+    },
+    {
+      "source": "№41",
+      "destination": "№76",
+      "weight": 5
+    },
+    {
+      "source": "№41",
+      "destination": "№77",
+      "weight": 9
+    },
+    {
+      "source": "№41",
+      "destination": "№78",
+      "weight": 6
+    },
+    {
+      "source": "№41",
+      "destination": "№81",
+      "weight": 7
+    },
+    {
+      "source": "№41",
+      "destination": "№83",
+      "weight": 7
+    },
+    {
+      "source": "№42",
+      "destination": "№46",
+      "weight": 5
+    },
+    {
+      "source": "№42",
+      "destination": "№47",
+      "weight": 14
+    },
+    {
+      "source": "№42",
+      "destination": "№48",
+      "weight": 14
+    },
+    {
+      "source": "№42",
+      "destination": "№53",
+      "weight": 7
+    },
+    {
+      "source": "№42",
+      "destination": "№55",
+      "weight": 7
+    },
+    {
+      "source": "№42",
+      "destination": "№56",
+      "weight": 8
+    },
+    {
+      "source": "№42",
+      "destination": "№63",
+      "weight": 9
+    },
+    {
+      "source": "№42",
+      "destination": "№66",
+      "weight": 4
+    },
+    {
+      "source": "№42",
+      "destination": "№67",
+      "weight": 9
+    },
+    {
+      "source": "№42",
+      "destination": "№69",
+      "weight": 10
+    },
+    {
+      "source": "№42",
+      "destination": "№79",
+      "weight": 5
+    },
+    {
+      "source": "№42",
+      "destination": "№80",
+      "weight": 12
+    },
+    {
+      "source": "№42",
+      "destination": "№81",
+      "weight": 11
+    },
+    {
+      "source": "№42",
+      "destination": "№85",
+      "weight": 15
+    },
+    {
+      "source": "№43",
+      "destination": "№46",
+      "weight": 8
+    },
+    {
+      "source": "№43",
+      "destination": "№51",
+      "weight": 4
+    },
+    {
+      "source": "№43",
+      "destination": "№61",
+      "weight": 9
+    },
+    {
+      "source": "№43",
+      "destination": "№62",
+      "weight": 10
+    },
+    {
+      "source": "№43",
+      "destination": "№64",
+      "weight": 9
+    },
+    {
+      "source": "№43",
+      "destination": "№66",
+      "weight": 14
+    },
+    {
+      "source": "№43",
+      "destination": "№69",
+      "weight": 7
+    },
+    {
+      "source": "№43",
+      "destination": "№74",
+      "weight": 2
+    },
+    {
+      "source": "№43",
+      "destination": "№77",
+      "weight": 1
+    },
+    {
+      "source": "№43",
+      "destination": "№80",
+      "weight": 5
+    },
+    {
+      "source": "№43",
+      "destination": "№83",
+      "weight": 3
+    },
+    {
+      "source": "№44",
+      "destination": "№45",
+      "weight": 12
+    },
+    {
+      "source": "№44",
+      "destination": "№61",
+      "weight": 15
+    },
+    {
+      "source": "№44",
+      "destination": "№65",
+      "weight": 2
+    },
+    {
+      "source": "№44",
+      "destination": "№69",
+      "weight": 10
+    },
+    {
+      "source": "№44",
+      "destination": "№70",
+      "weight": 8
+    },
+    {
+      "source": "№44",
+      "destination": "№74",
+      "weight": 4
+    },
+    {
+      "source": "№44",
+      "destination": "№82",
+      "weight": 12
+    },
+    {
+      "source": "№44",
+      "destination": "№83",
+      "weight": 8
+    },
+    {
+      "source": "№44",
+      "destination": "№84",
+      "weight": 11
+    },
+    {
+      "source": "№45",
+      "destination": "№47",
+      "weight": 12
+    },
+    {
+      "source": "№45",
+      "destination": "№49",
+      "weight": 15
+    },
+    {
+      "source": "№45",
+      "destination": "№53",
+      "weight": 5
+    },
+    {
+      "source": "№45",
+      "destination": "№56",
+      "weight": 9
+    },
+    {
+      "source": "№45",
+      "destination": "№62",
+      "weight": 5
+    },
+    {
+      "source": "№45",
+      "destination": "№64",
+      "weight": 12
+    },
+    {
+      "source": "№45",
+      "destination": "№65",
+      "weight": 9
+    },
+    {
+      "source": "№45",
+      "destination": "№66",
+      "weight": 10
+    },
+    {
+      "source": "№45",
+      "destination": "№69",
+      "weight": 8
+    },
+    {
+      "source": "№45",
+      "destination": "№70",
+      "weight": 12
+    },
+    {
+      "source": "№45",
+      "destination": "№75",
+      "weight": 10
+    },
+    {
+      "source": "№45",
+      "destination": "№78",
+      "weight": 2
+    },
+    {
+      "source": "№45",
+      "destination": "№83",
+      "weight": 11
+    },
+    {
+      "source": "№46",
+      "destination": "№47",
+      "weight": 15
+    },
+    {
+      "source": "№46",
+      "destination": "№51",
+      "weight": 2
+    },
+    {
+      "source": "№46",
+      "destination": "№54",
+      "weight": 10
+    },
+    {
+      "source": "№46",
+      "destination": "№57",
+      "weight": 14
+    },
+    {
+      "source": "№46",
+      "destination": "№62",
+      "weight": 4
+    },
+    {
+      "source": "№46",
+      "destination": "№68",
+      "weight": 15
+    },
+    {
+      "source": "№46",
+      "destination": "№69",
+      "weight": 11
+    },
+    {
+      "source": "№46",
+      "destination": "№71",
+      "weight": 11
+    },
+    {
+      "source": "№46",
+      "destination": "№72",
+      "weight": 6
+    },
+    {
+      "source": "№46",
+      "destination": "№73",
+      "weight": 8
+    },
+    {
+      "source": "№46",
+      "destination": "№75",
+      "weight": 11
+    },
+    {
+      "source": "№46",
+      "destination": "№76",
+      "weight": 1
+    },
+    {
+      "source": "№47",
+      "destination": "№48",
+      "weight": 5
+    },
+    {
+      "source": "№47",
+      "destination": "№52",
+      "weight": 5
+    },
+    {
+      "source": "№47",
+      "destination": "№53",
+      "weight": 14
+    },
+    {
+      "source": "№47",
+      "destination": "№54",
+      "weight": 8
+    },
+    {
+      "source": "№47",
+      "destination": "№61",
+      "weight": 10
+    },
+    {
+      "source": "№47",
+      "destination": "№72",
+      "weight": 6
+    },
+    {
+      "source": "№47",
+      "destination": "№74",
+      "weight": 5
+    },
+    {
+      "source": "№47",
+      "destination": "№81",
+      "weight": 3
+    },
+    {
+      "source": "№47",
+      "destination": "№83",
+      "weight": 3
+    },
+    {
+      "source": "№48",
+      "destination": "№51",
+      "weight": 8
+    },
+    {
+      "source": "№48",
+      "destination": "№53",
+      "weight": 12
+    },
+    {
+      "source": "№48",
+      "destination": "№54",
+      "weight": 15
+    },
+    {
+      "source": "№48",
+      "destination": "№56",
+      "weight": 14
+    },
+    {
+      "source": "№48",
+      "destination": "№57",
+      "weight": 8
+    },
+    {
+      "source": "№48",
+      "destination": "№58",
+      "weight": 14
+    },
+    {
+      "source": "№48",
+      "destination": "№60",
+      "weight": 15
+    },
+    {
+      "source": "№48",
+      "destination": "№67",
+      "weight": 15
+    },
+    {
+      "source": "№48",
+      "destination": "№72",
+      "weight": 8
+    },
+    {
+      "source": "№48",
+      "destination": "№73",
+      "weight": 12
+    },
+    {
+      "source": "№48",
+      "destination": "№81",
+      "weight": 3
+    },
+    {
+      "source": "№48",
+      "destination": "№84",
+      "weight": 5
+    },
+    {
+      "source": "№49",
+      "destination": "№61",
+      "weight": 11
+    },
+    {
+      "source": "№49",
+      "destination": "№62",
+      "weight": 11
+    },
+    {
+      "source": "№49",
+      "destination": "№63",
+      "weight": 1
+    },
+    {
+      "source": "№49",
+      "destination": "№64",
+      "weight": 10
+    },
+    {
+      "source": "№49",
+      "destination": "№67",
+      "weight": 13
+    },
+    {
+      "source": "№49",
+      "destination": "№79",
+      "weight": 7
+    },
+    {
+      "source": "№50",
+      "destination": "№52",
+      "weight": 13
+    },
+    {
+      "source": "№50",
+      "destination": "№54",
+      "weight": 1
+    },
+    {
+      "source": "№50",
+      "destination": "№55",
+      "weight": 4
+    },
+    {
+      "source": "№50",
+      "destination": "№57",
+      "weight": 14
+    },
+    {
+      "source": "№50",
+      "destination": "№65",
+      "weight": 3
+    },
+    {
+      "source": "№50",
+      "destination": "№67",
+      "weight": 12
+    },
+    {
+      "source": "№50",
+      "destination": "№74",
+      "weight": 1
+    },
+    {
+      "source": "№50",
+      "destination": "№79",
+      "weight": 5
+    },
+    {
+      "source": "№50",
+      "destination": "№81",
+      "weight": 4
+    },
+    {
+      "source": "№50",
+      "destination": "№83",
+      "weight": 7
+    },
+    {
+      "source": "№51",
+      "destination": "№52",
+      "weight": 4
+    },
+    {
+      "source": "№51",
+      "destination": "№63",
+      "weight": 13
+    },
+    {
+      "source": "№51",
+      "destination": "№64",
+      "weight": 3
+    },
+    {
+      "source": "№51",
+      "destination": "№66",
+      "weight": 4
+    },
+    {
+      "source": "№51",
+      "destination": "№67",
+      "weight": 5
+    },
+    {
+      "source": "№51",
+      "destination": "№68",
+      "weight": 12
+    },
+    {
+      "source": "№51",
+      "destination": "№69",
+      "weight": 12
+    },
+    {
+      "source": "№51",
+      "destination": "№70",
+      "weight": 10
+    },
+    {
+      "source": "№51",
+      "destination": "№75",
+      "weight": 12
+    },
+    {
+      "source": "№51",
+      "destination": "№77",
+      "weight": 10
+    },
+    {
+      "source": "№51",
+      "destination": "№79",
+      "weight": 9
+    },
+    {
+      "source": "№51",
+      "destination": "№83",
+      "weight": 3
+    },
+    {
+      "source": "№52",
+      "destination": "№55",
+      "weight": 9
+    },
+    {
+      "source": "№52",
+      "destination": "№59",
+      "weight": 5
+    },
+    {
+      "source": "№52",
+      "destination": "№60",
+      "weight": 4
+    },
+    {
+      "source": "№52",
+      "destination": "№62",
+      "weight": 3
+    },
+    {
+      "source": "№52",
+      "destination": "№65",
+      "weight": 6
+    },
+    {
+      "source": "№52",
+      "destination": "№67",
+      "weight": 2
+    },
+    {
+      "source": "№52",
+      "destination": "№70",
+      "weight": 11
+    },
+    {
+      "source": "№52",
+      "destination": "№74",
+      "weight": 9
+    },
+    {
+      "source": "№52",
+      "destination": "№76",
+      "weight": 1
+    },
+    {
+      "source": "№52",
+      "destination": "№83",
+      "weight": 6
+    },
+    {
+      "source": "№53",
+      "destination": "№54",
+      "weight": 5
+    },
+    {
+      "source": "№53",
+      "destination": "№56",
+      "weight": 4
+    },
+    {
+      "source": "№53",
+      "destination": "№58",
+      "weight": 13
+    },
+    {
+      "source": "№53",
+      "destination": "№59",
+      "weight": 13
+    },
+    {
+      "source": "№53",
+      "destination": "№61",
+      "weight": 3
+    },
+    {
+      "source": "№53",
+      "destination": "№62",
+      "weight": 12
+    },
+    {
+      "source": "№53",
+      "destination": "№64",
+      "weight": 10
+    },
+    {
+      "source": "№53",
+      "destination": "№66",
+      "weight": 5
+    },
+    {
+      "source": "№53",
+      "destination": "№67",
+      "weight": 12
+    },
+    {
+      "source": "№53",
+      "destination": "№68",
+      "weight": 6
+    },
+    {
+      "source": "№53",
+      "destination": "№69",
+      "weight": 5
+    },
+    {
+      "source": "№53",
+      "destination": "№73",
+      "weight": 3
+    },
+    {
+      "source": "№53",
+      "destination": "№76",
+      "weight": 7
+    },
+    {
+      "source": "№53",
+      "destination": "№80",
+      "weight": 12
+    },
+    {
+      "source": "№53",
+      "destination": "№81",
+      "weight": 8
+    },
+    {
+      "source": "№53",
+      "destination": "№83",
+      "weight": 10
+    },
+    {
+      "source": "№54",
+      "destination": "№55",
+      "weight": 6
+    },
+    {
+      "source": "№54",
+      "destination": "№59",
+      "weight": 11
+    },
+    {
+      "source": "№54",
+      "destination": "№61",
+      "weight": 4
+    },
+    {
+      "source": "№54",
+      "destination": "№65",
+      "weight": 13
+    },
+    {
+      "source": "№54",
+      "destination": "№67",
+      "weight": 1
+    },
+    {
+      "source": "№54",
+      "destination": "№72",
+      "weight": 8
+    },
+    {
+      "source": "№54",
+      "destination": "№75",
+      "weight": 4
+    },
+    {
+      "source": "№54",
+      "destination": "№77",
+      "weight": 3
+    },
+    {
+      "source": "№54",
+      "destination": "№78",
+      "weight": 4
+    },
+    {
+      "source": "№54",
+      "destination": "№79",
+      "weight": 8
+    },
+    {
+      "source": "№54",
+      "destination": "№80",
+      "weight": 15
+    },
+    {
+      "source": "№54",
+      "destination": "№82",
+      "weight": 1
+    },
+    {
+      "source": "№55",
+      "destination": "№56",
+      "weight": 1
+    },
+    {
+      "source": "№55",
+      "destination": "№58",
+      "weight": 6
+    },
+    {
+      "source": "№55",
+      "destination": "№65",
+      "weight": 6
+    },
+    {
+      "source": "№55",
+      "destination": "№68",
+      "weight": 3
+    },
+    {
+      "source": "№55",
+      "destination": "№73",
+      "weight": 13
+    },
+    {
+      "source": "№55",
+      "destination": "№80",
+      "weight": 4
+    },
+    {
+      "source": "№55",
+      "destination": "№82",
+      "weight": 8
+    },
+    {
+      "source": "№55",
+      "destination": "№85",
+      "weight": 8
+    },
+    {
+      "source": "№56",
+      "destination": "№57",
+      "weight": 2
+    },
+    {
+      "source": "№56",
+      "destination": "№58",
+      "weight": 5
+    },
+    {
+      "source": "№56",
+      "destination": "№59",
+      "weight": 10
+    },
+    {
+      "source": "№56",
+      "destination": "№61",
+      "weight": 2
+    },
+    {
+      "source": "№56",
+      "destination": "№62",
+      "weight": 4
+    },
+    {
+      "source": "№56",
+      "destination": "№63",
+      "weight": 10
+    },
+    {
+      "source": "№56",
+      "destination": "№65",
+      "weight": 1
+    },
+    {
+      "source": "№56",
+      "destination": "№66",
+      "weight": 13
+    },
+    {
+      "source": "№56",
+      "destination": "№74",
+      "weight": 13
+    },
+    {
+      "source": "№56",
+      "destination": "№75",
+      "weight": 9
+    },
+    {
+      "source": "№56",
+      "destination": "№76",
+      "weight": 6
+    },
+    {
+      "source": "№56",
+      "destination": "№77",
+      "weight": 1
+    },
+    {
+      "source": "№56",
+      "destination": "№81",
+      "weight": 15
+    },
+    {
+      "source": "№57",
+      "destination": "№59",
+      "weight": 13
+    },
+    {
+      "source": "№57",
+      "destination": "№61",
+      "weight": 9
+    },
+    {
+      "source": "№57",
+      "destination": "№62",
+      "weight": 9
+    },
+    {
+      "source": "№57",
+      "destination": "№65",
+      "weight": 11
+    },
+    {
+      "source": "№57",
+      "destination": "№69",
+      "weight": 8
+    },
+    {
+      "source": "№57",
+      "destination": "№70",
+      "weight": 10
+    },
+    {
+      "source": "№57",
+      "destination": "№72",
+      "weight": 6
+    },
+    {
+      "source": "№57",
+      "destination": "№77",
+      "weight": 4
+    },
+    {
+      "source": "№57",
+      "destination": "№78",
+      "weight": 7
+    },
+    {
+      "source": "№57",
+      "destination": "№85",
+      "weight": 8
+    },
+    {
+      "source": "№58",
+      "destination": "№64",
+      "weight": 7
+    },
+    {
+      "source": "№58",
+      "destination": "№69",
+      "weight": 14
+    },
+    {
+      "source": "№58",
+      "destination": "№70",
+      "weight": 14
+    },
+    {
+      "source": "№58",
+      "destination": "№72",
+      "weight": 1
+    },
+    {
+      "source": "№58",
+      "destination": "№73",
+      "weight": 11
+    },
+    {
+      "source": "№58",
+      "destination": "№77",
+      "weight": 6
+    },
+    {
+      "source": "№58",
+      "destination": "№82",
+      "weight": 15
+    },
+    {
+      "source": "№58",
+      "destination": "№85",
+      "weight": 9
+    },
+    {
+      "source": "№59",
+      "destination": "№66",
+      "weight": 8
+    },
+    {
+      "source": "№59",
+      "destination": "№68",
+      "weight": 12
+    },
+    {
+      "source": "№59",
+      "destination": "№70",
+      "weight": 15
+    },
+    {
+      "source": "№59",
+      "destination": "№72",
+      "weight": 12
+    },
+    {
+      "source": "№59",
+      "destination": "№73",
+      "weight": 7
+    },
+    {
+      "source": "№59",
+      "destination": "№74",
+      "weight": 14
+    },
+    {
+      "source": "№59",
+      "destination": "№76",
+      "weight": 11
+    },
+    {
+      "source": "№59",
+      "destination": "№78",
+      "weight": 10
+    },
+    {
+      "source": "№59",
+      "destination": "№80",
+      "weight": 15
+    },
+    {
+      "source": "№59",
+      "destination": "№81",
+      "weight": 13
+    },
+    {
+      "source": "№59",
+      "destination": "№83",
+      "weight": 7
+    },
+    {
+      "source": "№60",
+      "destination": "№64",
+      "weight": 2
+    },
+    {
+      "source": "№60",
+      "destination": "№70",
+      "weight": 1
+    },
+    {
+      "source": "№60",
+      "destination": "№81",
+      "weight": 6
+    },
+    {
+      "source": "№61",
+      "destination": "№66",
+      "weight": 7
+    },
+    {
+      "source": "№61",
+      "destination": "№67",
+      "weight": 11
+    },
+    {
+      "source": "№61",
+      "destination": "№73",
+      "weight": 8
+    },
+    {
+      "source": "№61",
+      "destination": "№78",
+      "weight": 4
+    },
+    {
+      "source": "№61",
+      "destination": "№81",
+      "weight": 4
+    },
+    {
+      "source": "№61",
+      "destination": "№83",
+      "weight": 6
+    },
+    {
+      "source": "№62",
+      "destination": "№65",
+      "weight": 14
+    },
+    {
+      "source": "№62",
+      "destination": "№67",
+      "weight": 9
+    },
+    {
+      "source": "№62",
+      "destination": "№68",
+      "weight": 10
+    },
+    {
+      "source": "№62",
+      "destination": "№74",
+      "weight": 10
+    },
+    {
+      "source": "№62",
+      "destination": "№75",
+      "weight": 13
+    },
+    {
+      "source": "№62",
+      "destination": "№84",
+      "weight": 13
+    },
+    {
+      "source": "№63",
+      "destination": "№65",
+      "weight": 11
+    },
+    {
+      "source": "№63",
+      "destination": "№69",
+      "weight": 8
+    },
+    {
+      "source": "№63",
+      "destination": "№71",
+      "weight": 5
+    },
+    {
+      "source": "№63",
+      "destination": "№74",
+      "weight": 2
+    },
+    {
+      "source": "№63",
+      "destination": "№76",
+      "weight": 15
+    },
+    {
+      "source": "№63",
+      "destination": "№78",
+      "weight": 8
+    },
+    {
+      "source": "№63",
+      "destination": "№79",
+      "weight": 7
+    },
+    {
+      "source": "№63",
+      "destination": "№80",
+      "weight": 9
+    },
+    {
+      "source": "№63",
+      "destination": "№81",
+      "weight": 11
+    },
+    {
+      "source": "№63",
+      "destination": "№82",
+      "weight": 6
+    },
+    {
+      "source": "№63",
+      "destination": "№83",
+      "weight": 10
+    },
+    {
+      "source": "№64",
+      "destination": "№67",
+      "weight": 8
+    },
+    {
+      "source": "№64",
+      "destination": "№69",
+      "weight": 2
+    },
+    {
+      "source": "№64",
+      "destination": "№70",
+      "weight": 7
+    },
+    {
+      "source": "№64",
+      "destination": "№71",
+      "weight": 13
+    },
+    {
+      "source": "№64",
+      "destination": "№72",
+      "weight": 5
+    },
+    {
+      "source": "№64",
+      "destination": "№73",
+      "weight": 13
+    },
+    {
+      "source": "№64",
+      "destination": "№74",
+      "weight": 8
+    },
+    {
+      "source": "№64",
+      "destination": "№75",
+      "weight": 15
+    },
+    {
+      "source": "№64",
+      "destination": "№76",
+      "weight": 5
+    },
+    {
+      "source": "№64",
+      "destination": "№78",
+      "weight": 11
+    },
+    {
+      "source": "№64",
+      "destination": "№79",
+      "weight": 12
+    },
+    {
+      "source": "№64",
+      "destination": "№80",
+      "weight": 14
+    },
+    {
+      "source": "№65",
+      "destination": "№67",
+      "weight": 11
+    },
+    {
+      "source": "№65",
+      "destination": "№70",
+      "weight": 8
+    },
+    {
+      "source": "№65",
+      "destination": "№71",
+      "weight": 7
+    },
+    {
+      "source": "№65",
+      "destination": "№76",
+      "weight": 4
+    },
+    {
+      "source": "№65",
+      "destination": "№82",
+      "weight": 4
+    },
+    {
+      "source": "№65",
+      "destination": "№84",
+      "weight": 4
+    },
+    {
+      "source": "№66",
+      "destination": "№68",
+      "weight": 1
+    },
+    {
+      "source": "№66",
+      "destination": "№69",
+      "weight": 6
+    },
+    {
+      "source": "№66",
+      "destination": "№71",
+      "weight": 6
+    },
+    {
+      "source": "№66",
+      "destination": "№77",
+      "weight": 1
+    },
+    {
+      "source": "№66",
+      "destination": "№78",
+      "weight": 13
+    },
+    {
+      "source": "№66",
+      "destination": "№80",
+      "weight": 4
+    },
+    {
+      "source": "№66",
+      "destination": "№82",
+      "weight": 5
+    },
+    {
+      "source": "№67",
+      "destination": "№68",
+      "weight": 1
+    },
+    {
+      "source": "№67",
+      "destination": "№70",
+      "weight": 13
+    },
+    {
+      "source": "№67",
+      "destination": "№73",
+      "weight": 6
+    },
+    {
+      "source": "№67",
+      "destination": "№74",
+      "weight": 9
+    },
+    {
+      "source": "№67",
+      "destination": "№77",
+      "weight": 5
+    },
+    {
+      "source": "№67",
+      "destination": "№79",
+      "weight": 6
+    },
+    {
+      "source": "№67",
+      "destination": "№81",
+      "weight": 11
+    },
+    {
+      "source": "№67",
+      "destination": "№83",
+      "weight": 3
+    },
+    {
+      "source": "№68",
+      "destination": "№71",
+      "weight": 1
+    },
+    {
+      "source": "№68",
+      "destination": "№72",
+      "weight": 5
+    },
+    {
+      "source": "№68",
+      "destination": "№73",
+      "weight": 1
+    },
+    {
+      "source": "№68",
+      "destination": "№78",
+      "weight": 15
+    },
+    {
+      "source": "№68",
+      "destination": "№79",
+      "weight": 8
+    },
+    {
+      "source": "№68",
+      "destination": "№82",
+      "weight": 7
+    },
+    {
+      "source": "№69",
+      "destination": "№73",
+      "weight": 4
+    },
+    {
+      "source": "№69",
+      "destination": "№75",
+      "weight": 2
+    },
+    {
+      "source": "№69",
+      "destination": "№78",
+      "weight": 11
+    },
+    {
+      "source": "№69",
+      "destination": "№79",
+      "weight": 1
+    },
+    {
+      "source": "№69",
+      "destination": "№81",
+      "weight": 1
+    },
+    {
+      "source": "№69",
+      "destination": "№84",
+      "weight": 13
+    },
+    {
+      "source": "№69",
+      "destination": "№85",
+      "weight": 3
+    },
+    {
+      "source": "№70",
+      "destination": "№71",
+      "weight": 14
+    },
+    {
+      "source": "№70",
+      "destination": "№72",
+      "weight": 13
+    },
+    {
+      "source": "№70",
+      "destination": "№73",
+      "weight": 2
+    },
+    {
+      "source": "№70",
+      "destination": "№75",
+      "weight": 1
+    },
+    {
+      "source": "№70",
+      "destination": "№79",
+      "weight": 6
+    },
+    {
+      "source": "№70",
+      "destination": "№82",
+      "weight": 13
+    },
+    {
+      "source": "№70",
+      "destination": "№83",
+      "weight": 6
+    },
+    {
+      "source": "№71",
+      "destination": "№76",
+      "weight": 15
+    },
+    {
+      "source": "№71",
+      "destination": "№82",
+      "weight": 3
+    },
+    {
+      "source": "№72",
+      "destination": "№73",
+      "weight": 4
+    },
+    {
+      "source": "№72",
+      "destination": "№75",
+      "weight": 3
+    },
+    {
+      "source": "№72",
+      "destination": "№81",
+      "weight": 9
+    },
+    {
+      "source": "№73",
+      "destination": "№74",
+      "weight": 1
+    },
+    {
+      "source": "№73",
+      "destination": "№82",
+      "weight": 13
+    },
+    {
+      "source": "№73",
+      "destination": "№85",
+      "weight": 3
+    },
+    {
+      "source": "№74",
+      "destination": "№75",
+      "weight": 8
+    },
+    {
+      "source": "№74",
+      "destination": "№79",
+      "weight": 5
+    },
+    {
+      "source": "№74",
+      "destination": "№82",
+      "weight": 11
+    },
+    {
+      "source": "№74",
+      "destination": "№83",
+      "weight": 6
+    },
+    {
+      "source": "№74",
+      "destination": "№84",
+      "weight": 5
+    },
+    {
+      "source": "№75",
+      "destination": "№78",
+      "weight": 8
+    },
+    {
+      "source": "№75",
+      "destination": "№79",
+      "weight": 12
+    },
+    {
+      "source": "№75",
+      "destination": "№80",
+      "weight": 3
+    },
+    {
+      "source": "№75",
+      "destination": "№81",
+      "weight": 1
+    },
+    {
+      "source": "№75",
+      "destination": "№83",
+      "weight": 5
+    },
+    {
+      "source": "№75",
+      "destination": "№85",
+      "weight": 8
+    },
+    {
+      "source": "№76",
+      "destination": "№81",
+      "weight": 4
+    },
+    {
+      "source": "№76",
+      "destination": "№82",
+      "weight": 5
+    },
+    {
+      "source": "№76",
+      "destination": "№83",
+      "weight": 14
+    },
+    {
+      "source": "№77",
+      "destination": "№78",
+      "weight": 3
+    },
+    {
+      "source": "№77",
+      "destination": "№80",
+      "weight": 4
+    },
+    {
+      "source": "№77",
+      "destination": "№81",
+      "weight": 13
+    },
+    {
+      "source": "№78",
+      "destination": "№81",
+      "weight": 8
+    },
+    {
+      "source": "№78",
+      "destination": "№82",
+      "weight": 1
+    },
+    {
+      "source": "№79",
+      "destination": "№80",
+      "weight": 10
+    },
+    {
+      "source": "№80",
+      "destination": "№82",
+      "weight": 4
+    },
+    {
+      "source": "№80",
+      "destination": "№83",
+      "weight": 9
+    },
+    {
+      "source": "№81",
+      "destination": "№82",
+      "weight": 12
+    },
+    {
+      "source": "№81",
+      "destination": "№85",
+      "weight": 13
+    },
+    {
+      "source": "№82",
+      "destination": "№84",
+      "weight": 13
+    },
+    {
+      "source": "№82",
+      "destination": "№85",
+      "weight": 7
+    },
+    {
+      "source": "№83",
+      "destination": "№84",
+      "weight": 3
+    },
+    {
+      "source": "№83",
+      "destination": "№85",
+      "weight": 11
+    }
+  ]
+}
